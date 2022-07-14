@@ -1,0 +1,455 @@
+[7/14/2022, 12:08:24 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.7 
+[7/14/2022, 12:09:00 am] [GOOD]: Refreshing All Device Data 
+[7/14/2022, 12:09:01 am] [NOTICE]: Temperature Unit is Now: (F) 
+[7/14/2022, 12:09:01 am] [NOTICE]: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false 
+[7/14/2022, 12:09:01 am] [WARN]: Devices to Remove: (0) []
+[7/14/2022, 12:09:01 am] [INFO]: Devices to Update: (19) 
+[7/14/2022, 12:09:01 am] [GOOD]: Devices to Create: (0) []
+[7/14/2022, 12:09:01 am] [ALERT]: Total Initialization Time: (1 seconds) 
+[7/14/2022, 12:09:01 am] [NOTICE]: Unknown Capabilities: ["Ocf","Execute"] 
+[7/14/2022, 12:09:01 am] [INFO]: SmartThings DeviceCache Size: (19) 
+[7/14/2022, 12:09:01 am] [INFO]: Checking Package Version for Updates... 
+[7/14/2022, 12:09:03 am] [INFO]: INFO: Your plugin version is up-to-date 
+[7/14/2022, 12:09:03 am] [NOTICE]: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8 
+[7/14/2022, 12:09:30 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.1 
+[7/14/2022, 12:18:30 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.6 
+[7/14/2022, 12:28:35 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.5 
+[7/14/2022, 12:29:43 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75 
+[7/14/2022, 12:34:47 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.1 
+[7/14/2022, 12:39:50 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75 
+[7/14/2022, 12:41:04 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.9 
+[7/14/2022, 12:46:07 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 72 
+[7/14/2022, 12:51:09 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.9 
+[7/14/2022, 12:55:00 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.9 
+[7/14/2022, 1:09:00 am] [GOOD]: Refreshing All Device Data 
+[7/14/2022, 1:09:02 am] [NOTICE]: Temperature Unit is Now: (F) 
+[7/14/2022, 1:09:02 am] [NOTICE]: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false 
+[7/14/2022, 1:09:02 am] [WARN]: Devices to Remove: (0) []
+[7/14/2022, 1:09:02 am] [INFO]: Devices to Update: (19) 
+[7/14/2022, 1:09:02 am] [GOOD]: Devices to Create: (0) []
+[7/14/2022, 1:09:02 am] [ALERT]: Total Initialization Time: (1 seconds) 
+[7/14/2022, 1:09:02 am] [NOTICE]: Unknown Capabilities: ["Ocf","Execute"] 
+[7/14/2022, 1:09:02 am] [INFO]: SmartThings DeviceCache Size: (19) 
+[7/14/2022, 1:09:02 am] [INFO]: Checking Package Version for Updates... 
+[7/14/2022, 1:09:03 am] [INFO]: INFO: Your plugin version is up-to-date 
+[7/14/2022, 1:09:03 am] [NOTICE]: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8 
+[7/14/2022, 1:10:10 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.8 
+[7/14/2022, 1:11:21 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 72 
+[7/14/2022, 1:16:23 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.9 
+[7/14/2022, 1:19:02 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.4 
+[7/14/2022, 1:29:08 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3 
+[7/14/2022, 1:30:23 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.7 
+[7/14/2022, 1:34:10 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.4 
+[7/14/2022, 1:35:26 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.6 
+[7/14/2022, 1:39:13 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3 
+[7/14/2022, 1:44:16 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.4 
+[7/14/2022, 1:55:40 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.5 
+[7/14/2022, 1:56:46 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.8 
+[7/14/2022, 2:01:49 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.9 
+[7/14/2022, 2:04:26 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3 
+[7/14/2022, 2:06:52 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.8 
+[7/14/2022, 2:09:00 am] [GOOD]: Refreshing All Device Data 
+[7/14/2022, 2:09:02 am] [NOTICE]: Temperature Unit is Now: (F) 
+[7/14/2022, 2:09:02 am] [NOTICE]: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false 
+[7/14/2022, 2:09:02 am] [WARN]: Devices to Remove: (0) []
+[7/14/2022, 2:09:02 am] [INFO]: Devices to Update: (19) 
+[7/14/2022, 2:09:02 am] [GOOD]: Devices to Create: (0) []
+[7/14/2022, 2:09:02 am] [ALERT]: Total Initialization Time: (1 seconds) 
+[7/14/2022, 2:09:02 am] [NOTICE]: Unknown Capabilities: ["Ocf","Execute"] 
+[7/14/2022, 2:09:02 am] [INFO]: SmartThings DeviceCache Size: (19) 
+[7/14/2022, 2:09:02 am] [INFO]: Checking Package Version for Updates... 
+[7/14/2022, 2:09:03 am] [INFO]: INFO: Your plugin version is up-to-date 
+[7/14/2022, 2:09:03 am] [NOTICE]: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8 
+[7/14/2022, 2:10:49 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.4 
+[7/14/2022, 2:20:56 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.3 
+[7/14/2022, 2:36:06 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.2 
+[7/14/2022, 2:42:11 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.7 
+[7/14/2022, 2:49:51 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.4 
+[7/14/2022, 2:51:16 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.1 
+[7/14/2022, 3:01:23 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74 
+[7/14/2022, 3:04:59 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3 
+[7/14/2022, 3:09:00 am] [GOOD]: Refreshing All Device Data 
+[7/14/2022, 3:09:01 am] [NOTICE]: Temperature Unit is Now: (F) 
+[7/14/2022, 3:09:01 am] [NOTICE]: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false 
+[7/14/2022, 3:09:01 am] [WARN]: Devices to Remove: (0) []
+[7/14/2022, 3:09:01 am] [INFO]: Devices to Update: (19) 
+[7/14/2022, 3:09:01 am] [GOOD]: Devices to Create: (0) []
+[7/14/2022, 3:09:01 am] [ALERT]: Total Initialization Time: (1 seconds) 
+[7/14/2022, 3:09:01 am] [NOTICE]: Unknown Capabilities: ["Ocf","Execute"] 
+[7/14/2022, 3:09:01 am] [INFO]: SmartThings DeviceCache Size: (19) 
+[7/14/2022, 3:09:01 am] [INFO]: Checking Package Version for Updates... 
+[7/14/2022, 3:09:03 am] [INFO]: INFO: Your plugin version is up-to-date 
+[7/14/2022, 3:09:03 am] [NOTICE]: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8 
+[7/14/2022, 3:16:32 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.9 
+[7/14/2022, 3:17:31 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.6 
+[7/14/2022, 3:20:07 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2 
+[7/14/2022, 3:25:10 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3 
+[7/14/2022, 3:26:39 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.8 
+[7/14/2022, 3:41:49 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.7 
+[7/14/2022, 3:42:45 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.5 
+[7/14/2022, 4:02:02 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.6 
+[7/14/2022, 4:05:31 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2 
+[7/14/2022, 4:09:00 am] [GOOD]: Refreshing All Device Data 
+[7/14/2022, 4:09:02 am] [NOTICE]: Temperature Unit is Now: (F) 
+[7/14/2022, 4:09:02 am] [NOTICE]: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false 
+[7/14/2022, 4:09:02 am] [WARN]: Devices to Remove: (0) []
+[7/14/2022, 4:09:02 am] [INFO]: Devices to Update: (19) 
+[7/14/2022, 4:09:02 am] [GOOD]: Devices to Create: (0) []
+[7/14/2022, 4:09:02 am] [ALERT]: Total Initialization Time: (2 seconds) 
+[7/14/2022, 4:09:02 am] [NOTICE]: Unknown Capabilities: ["Ocf","Execute"] 
+[7/14/2022, 4:09:02 am] [INFO]: SmartThings DeviceCache Size: (19) 
+[7/14/2022, 4:09:02 am] [INFO]: Checking Package Version for Updates... 
+[7/14/2022, 4:09:03 am] [INFO]: INFO: Your plugin version is up-to-date 
+[7/14/2022, 4:09:03 am] [NOTICE]: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8 
+[7/14/2022, 4:17:12 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.5 
+[7/14/2022, 4:30:45 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3 
+[7/14/2022, 4:33:13 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.4 
+[7/14/2022, 4:37:26 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.4 
+[7/14/2022, 4:47:32 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.3 
+[7/14/2022, 4:55:59 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2 
+[7/14/2022, 5:03:30 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.3 
+[7/14/2022, 5:07:45 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.2 
+[7/14/2022, 5:08:33 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.4 
+[7/14/2022, 5:09:00 am] [GOOD]: Refreshing All Device Data 
+[7/14/2022, 5:09:02 am] [NOTICE]: Temperature Unit is Now: (F) 
+[7/14/2022, 5:09:02 am] [NOTICE]: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false 
+[7/14/2022, 5:09:02 am] [WARN]: Devices to Remove: (0) []
+[7/14/2022, 5:09:02 am] [INFO]: Devices to Update: (19) 
+[7/14/2022, 5:09:02 am] [GOOD]: Devices to Create: (0) []
+[7/14/2022, 5:09:02 am] [ALERT]: Total Initialization Time: (1 seconds) 
+[7/14/2022, 5:09:02 am] [NOTICE]: Unknown Capabilities: ["Ocf","Execute"] 
+[7/14/2022, 5:09:02 am] [INFO]: SmartThings DeviceCache Size: (19) 
+[7/14/2022, 5:09:02 am] [INFO]: Checking Package Version for Updates... 
+[7/14/2022, 5:09:03 am] [INFO]: INFO: Your plugin version is up-to-date 
+[7/14/2022, 5:09:03 am] [NOTICE]: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8 
+[7/14/2022, 5:13:36 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.3 
+[7/14/2022, 5:22:55 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.1 
+[7/14/2022, 5:31:18 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3 
+[7/14/2022, 5:36:20 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2 
+[7/14/2022, 5:43:09 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73 
+[7/14/2022, 5:48:55 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.2 
+[7/14/2022, 5:51:28 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.1 
+[7/14/2022, 5:53:15 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.9 
+[7/14/2022, 6:06:36 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2 
+[7/14/2022, 6:09:00 am] [GOOD]: Refreshing All Device Data 
+[7/14/2022, 6:09:01 am] [NOTICE]: Temperature Unit is Now: (F) 
+[7/14/2022, 6:09:01 am] [NOTICE]: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false 
+[7/14/2022, 6:09:01 am] [WARN]: Devices to Remove: (0) []
+[7/14/2022, 6:09:01 am] [INFO]: Devices to Update: (19) 
+[7/14/2022, 6:09:01 am] [GOOD]: Devices to Create: (0) []
+[7/14/2022, 6:09:01 am] [ALERT]: Total Initialization Time: (1 seconds) 
+[7/14/2022, 6:09:01 am] [NOTICE]: Unknown Capabilities: ["Ocf","Execute"] 
+[7/14/2022, 6:09:01 am] [INFO]: SmartThings DeviceCache Size: (19) 
+[7/14/2022, 6:09:01 am] [INFO]: Checking Package Version for Updates... 
+[7/14/2022, 6:09:03 am] [INFO]: INFO: Your plugin version is up-to-date 
+[7/14/2022, 6:09:03 am] [NOTICE]: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8 
+[7/14/2022, 6:13:29 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.8 
+[7/14/2022, 6:21:45 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3 
+[7/14/2022, 6:24:15 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.1 
+[7/14/2022, 6:26:47 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2 
+[7/14/2022, 6:28:39 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.7 
+[7/14/2022, 6:36:53 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.1 
+[7/14/2022, 6:43:49 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.6 
+[7/14/2022, 6:54:32 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71 
+[7/14/2022, 6:57:04 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2 
+[7/14/2022, 7:04:02 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.5 
+[7/14/2022, 7:09:00 am] [GOOD]: Refreshing All Device Data 
+[7/14/2022, 7:09:02 am] [NOTICE]: Temperature Unit is Now: (F) 
+[7/14/2022, 7:09:02 am] [NOTICE]: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false 
+[7/14/2022, 7:09:02 am] [WARN]: Devices to Remove: (0) []
+[7/14/2022, 7:09:02 am] [INFO]: Devices to Update: (19) 
+[7/14/2022, 7:09:02 am] [GOOD]: Devices to Create: (0) []
+[7/14/2022, 7:09:02 am] [ALERT]: Total Initialization Time: (2 seconds) 
+[7/14/2022, 7:09:02 am] [NOTICE]: Unknown Capabilities: ["Ocf","Execute"] 
+[7/14/2022, 7:09:02 am] [INFO]: SmartThings DeviceCache Size: (19) 
+[7/14/2022, 7:09:02 am] [INFO]: Checking Package Version for Updates... 
+[7/14/2022, 7:09:04 am] [INFO]: INFO: Your plugin version is up-to-date 
+[7/14/2022, 7:09:04 am] [NOTICE]: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8 
+[7/14/2022, 7:19:12 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.4 
+[7/14/2022, 7:22:17 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3 
+[7/14/2022, 7:27:20 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2 
+[7/14/2022, 7:29:51 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.9 
+[7/14/2022, 7:34:54 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71 
+[7/14/2022, 7:39:25 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.3 
+[7/14/2022, 7:39:57 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.9 
+[7/14/2022, 7:50:03 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.8 
+[7/14/2022, 7:54:35 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.2 
+[7/14/2022, 7:55:05 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.9 
+[7/14/2022, 8:04:42 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.1 
+[7/14/2022, 8:05:11 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.8 
+[7/14/2022, 8:07:42 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.1 
+[7/14/2022, 8:09:00 am] [GOOD]: Refreshing All Device Data 
+[7/14/2022, 8:09:02 am] [NOTICE]: Temperature Unit is Now: (F) 
+[7/14/2022, 8:09:02 am] [NOTICE]: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false 
+[7/14/2022, 8:09:02 am] [WARN]: Devices to Remove: (0) []
+[7/14/2022, 8:09:02 am] [INFO]: Devices to Update: (19) 
+[7/14/2022, 8:09:02 am] [GOOD]: Devices to Create: (0) []
+[7/14/2022, 8:09:02 am] [ALERT]: Total Initialization Time: (2 seconds) 
+[7/14/2022, 8:09:02 am] [NOTICE]: Unknown Capabilities: ["Ocf","Execute"] 
+[7/14/2022, 8:09:02 am] [INFO]: SmartThings DeviceCache Size: (19) 
+[7/14/2022, 8:09:02 am] [INFO]: Checking Package Version for Updates... 
+[7/14/2022, 8:09:03 am] [INFO]: INFO: Your plugin version is up-to-date 
+[7/14/2022, 8:09:03 am] [NOTICE]: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8 
+[7/14/2022, 8:17:47 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2 
+[7/14/2022, 8:19:52 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72 
+[7/14/2022, 8:24:55 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 71.9 
+[7/14/2022, 8:40:05 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 71.8 
+[7/14/2022, 8:43:00 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3 
+[7/14/2022, 8:50:12 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 71.7 
+[7/14/2022, 8:53:06 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2 
+[7/14/2022, 8:55:39 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.7 
+[7/14/2022, 9:00:42 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.8 
+[7/14/2022, 9:04:15 am] [INFO]: [Device Event]: (Theater light) [SWITCH] is on 
+[7/14/2022, 9:04:15 am] [INFO]: [Device Event]: (Theater light) [SWITCH] is on 
+[7/14/2022, 9:05:45 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.7 
+[7/14/2022, 9:09:00 am] [GOOD]: Refreshing All Device Data 
+[7/14/2022, 9:09:02 am] [NOTICE]: Temperature Unit is Now: (F) 
+[7/14/2022, 9:09:02 am] [NOTICE]: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false 
+[7/14/2022, 9:09:02 am] [WARN]: Devices to Remove: (0) []
+[7/14/2022, 9:09:02 am] [INFO]: Devices to Update: (19) 
+[7/14/2022, 9:09:02 am] [GOOD]: Devices to Create: (0) []
+[7/14/2022, 9:09:02 am] [ALERT]: Total Initialization Time: (1 seconds) 
+[7/14/2022, 9:09:02 am] [NOTICE]: Unknown Capabilities: ["Ocf","Execute"] 
+[7/14/2022, 9:09:02 am] [INFO]: SmartThings DeviceCache Size: (19) 
+[7/14/2022, 9:09:02 am] [INFO]: Checking Package Version for Updates... 
+[7/14/2022, 9:09:03 am] [INFO]: INFO: Your plugin version is up-to-date 
+[7/14/2022, 9:09:03 am] [NOTICE]: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8 
+[7/14/2022, 9:10:25 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 71.5 
+[7/14/2022, 9:28:25 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3 
+[7/14/2022, 9:30:39 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 71.6 
+[7/14/2022, 9:35:07 am] [INFO]: [Device Event]: (Overhead light) [LEVEL] is 4 
+[7/14/2022, 9:35:07 am] [INFO]: [Device Event]: (Overhead light) [SWITCH] is on 
+[7/14/2022, 9:35:07 am] [INFO]: [Device Event]: (Overhead light) [SWITCH] is on 
+[7/14/2022, 9:35:09 am] [INFO]: [Device Event]: (Overhead light) [LEVEL] is 76 
+[7/14/2022, 9:36:02 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.6 
+[7/14/2022, 9:37:47 am] [INFO]: [Device Event]: (Overhead light) [LEVEL] is 73 
+[7/14/2022, 9:37:48 am] [INFO]: [Device Event]: (Overhead light) [LEVEL] is 55 
+[7/14/2022, 9:37:49 am] [INFO]: [Device Event]: (Overhead light) [SWITCH] is off 
+[7/14/2022, 9:37:49 am] [INFO]: [Device Event]: (Overhead light) [SWITCH] is off 
+[7/14/2022, 9:40:45 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 71.7 
+[7/14/2022, 9:43:33 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.4 
+[7/14/2022, 9:50:52 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 71.9 
+[7/14/2022, 9:55:55 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.1 
+[7/14/2022, 9:58:41 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.5 
+[7/14/2022, 10:00:59 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.3 
+[7/14/2022, 10:03:44 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.6 
+[7/14/2022, 10:06:02 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.4 
+[7/14/2022, 10:09:00 am] [GOOD]: Refreshing All Device Data 
+[7/14/2022, 10:09:02 am] [NOTICE]: Temperature Unit is Now: (F) 
+[7/14/2022, 10:09:02 am] [NOTICE]: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false 
+[7/14/2022, 10:09:02 am] [WARN]: Devices to Remove: (0) []
+[7/14/2022, 10:09:02 am] [INFO]: Devices to Update: (19) 
+[7/14/2022, 10:09:02 am] [GOOD]: Devices to Create: (0) []
+[7/14/2022, 10:09:02 am] [ALERT]: Total Initialization Time: (1 seconds) 
+[7/14/2022, 10:09:02 am] [NOTICE]: Unknown Capabilities: ["Ocf","Execute"] 
+[7/14/2022, 10:09:02 am] [INFO]: SmartThings DeviceCache Size: (19) 
+[7/14/2022, 10:09:02 am] [INFO]: Checking Package Version for Updates... 
+[7/14/2022, 10:09:03 am] [INFO]: INFO: Your plugin version is up-to-date 
+[7/14/2022, 10:09:03 am] [NOTICE]: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8 
+[7/14/2022, 10:11:05 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.7 
+[7/14/2022, 10:16:09 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.9 
+[7/14/2022, 10:18:52 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.5 
+[7/14/2022, 10:21:12 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73 
+[7/14/2022, 10:23:54 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.6 
+[7/14/2022, 10:26:15 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.2 
+[7/14/2022, 10:31:19 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.3 
+[7/14/2022, 10:36:22 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.5 
+[7/14/2022, 10:41:25 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.6 
+[7/14/2022, 10:41:38 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.5 
+[7/14/2022, 10:46:29 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.7 
+[7/14/2022, 10:51:32 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.8 
+[7/14/2022, 10:56:35 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.9 
+[7/14/2022, 10:59:13 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.5 
+[7/14/2022, 11:01:39 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74 
+[7/14/2022, 11:01:50 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.6 
+[7/14/2022, 11:04:16 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.6 
+[7/14/2022, 11:06:42 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.1 
+[7/14/2022, 11:06:52 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.5 
+[7/14/2022, 11:09:00 am] [GOOD]: Refreshing All Device Data 
+[7/14/2022, 11:09:02 am] [NOTICE]: Temperature Unit is Now: (F) 
+[7/14/2022, 11:09:02 am] [NOTICE]: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false 
+[7/14/2022, 11:09:02 am] [WARN]: Devices to Remove: (0) []
+[7/14/2022, 11:09:02 am] [INFO]: Devices to Update: (19) 
+[7/14/2022, 11:09:02 am] [GOOD]: Devices to Create: (0) []
+[7/14/2022, 11:09:02 am] [ALERT]: Total Initialization Time: (2 seconds) 
+[7/14/2022, 11:09:02 am] [NOTICE]: Unknown Capabilities: ["Ocf","Execute"] 
+[7/14/2022, 11:09:02 am] [INFO]: SmartThings DeviceCache Size: (19) 
+[7/14/2022, 11:09:02 am] [INFO]: Checking Package Version for Updates... 
+[7/14/2022, 11:09:04 am] [INFO]: INFO: Your plugin version is up-to-date 
+[7/14/2022, 11:09:04 am] [NOTICE]: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8 
+[7/14/2022, 11:11:45 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.2 
+[7/14/2022, 11:14:21 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.4 
+[7/14/2022, 11:16:49 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.3 
+[7/14/2022, 11:29:30 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.5 
+[7/14/2022, 11:31:58 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.4 
+[7/14/2022, 11:34:32 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.4 
+[7/14/2022, 11:37:02 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.5 
+[7/14/2022, 11:49:40 am] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.5 
+[7/14/2022, 11:57:15 am] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.6 
+[7/14/2022, 11:57:21 am] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.4 
+[7/14/2022, 12:02:18 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.7 
+[7/14/2022, 12:02:23 pm] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.5 
+[7/14/2022, 12:04:49 pm] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.6 
+[7/14/2022, 12:07:22 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.8 
+[7/14/2022, 12:07:26 pm] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.4 
+[7/14/2022, 12:09:00 pm] [GOOD]: Refreshing All Device Data 
+[7/14/2022, 12:09:02 pm] [NOTICE]: Temperature Unit is Now: (F) 
+[7/14/2022, 12:09:02 pm] [NOTICE]: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false 
+[7/14/2022, 12:09:02 pm] [WARN]: Devices to Remove: (0) []
+[7/14/2022, 12:09:02 pm] [INFO]: Devices to Update: (19) 
+[7/14/2022, 12:09:02 pm] [GOOD]: Devices to Create: (0) []
+[7/14/2022, 12:09:02 pm] [ALERT]: Total Initialization Time: (1 seconds) 
+[7/14/2022, 12:09:02 pm] [NOTICE]: Unknown Capabilities: ["Ocf","Execute"] 
+[7/14/2022, 12:09:02 pm] [INFO]: SmartThings DeviceCache Size: (19) 
+[7/14/2022, 12:09:02 pm] [INFO]: Checking Package Version for Updates... 
+[7/14/2022, 12:09:03 pm] [INFO]: INFO: Your plugin version is up-to-date 
+[7/14/2022, 12:09:03 pm] [NOTICE]: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8 
+[7/14/2022, 12:12:25 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.1 
+[7/14/2022, 12:12:29 pm] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.5 
+[7/14/2022, 12:14:54 pm] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.7 
+[7/14/2022, 12:17:28 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.2 
+[7/14/2022, 12:22:31 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.3 
+[7/14/2022, 12:30:02 pm] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.8 
+[7/14/2022, 12:37:41 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.4 
+[7/14/2022, 12:40:07 pm] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.7 
+[7/14/2022, 12:45:10 pm] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.8 
+[7/14/2022, 12:52:51 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.3 
+[7/14/2022, 12:57:54 pm] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.6 
+[7/14/2022, 12:57:55 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.4 
+[7/14/2022, 1:02:21 pm] [INFO]: [Device Event]: (Meeting) [SWITCH] is on 
+[7/14/2022, 1:02:57 pm] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.5 
+[7/14/2022, 1:02:58 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.3 
+[7/14/2022, 1:05:21 pm] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.9 
+[7/14/2022, 1:08:01 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.2 
+[7/14/2022, 1:09:00 pm] [GOOD]: Refreshing All Device Data 
+[7/14/2022, 1:09:02 pm] [NOTICE]: Temperature Unit is Now: (F) 
+[7/14/2022, 1:09:02 pm] [NOTICE]: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false 
+[7/14/2022, 1:09:02 pm] [WARN]: Devices to Remove: (0) []
+[7/14/2022, 1:09:02 pm] [INFO]: Devices to Update: (19) 
+[7/14/2022, 1:09:02 pm] [GOOD]: Devices to Create: (0) []
+[7/14/2022, 1:09:02 pm] [ALERT]: Total Initialization Time: (2 seconds) 
+[7/14/2022, 1:09:02 pm] [NOTICE]: Unknown Capabilities: ["Ocf","Execute"] 
+[7/14/2022, 1:09:02 pm] [INFO]: SmartThings DeviceCache Size: (19) 
+[7/14/2022, 1:09:02 pm] [INFO]: Checking Package Version for Updates... 
+[7/14/2022, 1:09:03 pm] [INFO]: INFO: Your plugin version is up-to-date 
+[7/14/2022, 1:09:03 pm] [NOTICE]: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8 
+[7/14/2022, 1:10:24 pm] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.8 
+[7/14/2022, 1:13:04 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.1 
+[7/14/2022, 1:15:26 pm] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.7 
+[7/14/2022, 1:18:08 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75 
+[7/14/2022, 1:23:11 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.9 
+[7/14/2022, 1:28:14 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.8 
+[7/14/2022, 1:33:18 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.7 
+[7/14/2022, 1:38:17 pm] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.6 
+[7/14/2022, 1:38:21 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.6 
+[7/14/2022, 1:40:40 pm] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.6 
+[7/14/2022, 1:43:20 pm] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.5 
+[7/14/2022, 1:45:43 pm] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.7 
+[7/14/2022, 1:48:22 pm] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.6 
+[7/14/2022, 1:48:28 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.5 
+[7/14/2022, 1:50:45 pm] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.6 
+[7/14/2022, 1:58:34 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.4 
+[7/14/2022, 2:00:51 pm] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.5 
+[7/14/2022, 2:09:00 pm] [GOOD]: Refreshing All Device Data 
+[7/14/2022, 2:09:02 pm] [NOTICE]: Temperature Unit is Now: (F) 
+[7/14/2022, 2:09:02 pm] [NOTICE]: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false 
+[7/14/2022, 2:09:02 pm] [WARN]: Devices to Remove: (0) []
+[7/14/2022, 2:09:02 pm] [INFO]: Devices to Update: (19) 
+[7/14/2022, 2:09:02 pm] [GOOD]: Devices to Create: (0) []
+[7/14/2022, 2:09:02 pm] [ALERT]: Total Initialization Time: (2 seconds) 
+[7/14/2022, 2:09:02 pm] [NOTICE]: Unknown Capabilities: ["Ocf","Execute"] 
+[7/14/2022, 2:09:02 pm] [INFO]: SmartThings DeviceCache Size: (19) 
+[7/14/2022, 2:09:02 pm] [INFO]: Checking Package Version for Updates... 
+[7/14/2022, 2:09:03 pm] [INFO]: INFO: Your plugin version is up-to-date 
+[7/14/2022, 2:09:03 pm] [NOTICE]: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8 
+[7/14/2022, 2:10:56 pm] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.6 
+[7/14/2022, 2:21:10 pm] [NOTICE]: Sending Device Command: off | Name: (Meeting) | DeviceID: (56e73bf6-6371-f0a2-04ec-d58f88ca0948) | SendToLocalHub: (false) 
+[7/14/2022, 2:21:11 pm] [INFO]: [Device Event]: (Meeting) [SWITCH] is off 
+[7/14/2022, 2:26:04 pm] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.7 
+[7/14/2022, 2:34:28 pm] [INFO]: Homebridge Version: 2.7 
+[7/14/2022, 2:34:28 pm] [INFO]: SmartThings-v2 Plugin Version: 2.3.8 
+[7/14/2022, 2:34:28 pm] [INFO]: Checking Package Version for Updates... 
+[7/14/2022, 2:34:29 pm] [INFO]: Fetching SmartThings-v2 Devices. NOTICE: This may take a moment if you have a large number of device data is being loaded! 
+[7/14/2022, 2:34:29 pm] [GOOD]: Refreshing All Device Data | Source: (First Launch) 
+[7/14/2022, 2:34:30 pm] [INFO]: INFO: Your plugin version is up-to-date 
+[7/14/2022, 2:34:30 pm] [NOTICE]: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8 
+[7/14/2022, 2:34:30 pm] [NOTICE]: Temperature Unit is Now: (F) 
+[7/14/2022, 2:34:30 pm] [NOTICE]: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false 
+[7/14/2022, 2:34:30 pm] [WARN]: Devices to Remove: (0) []
+[7/14/2022, 2:34:30 pm] [INFO]: Devices to Update: (19) 
+[7/14/2022, 2:34:30 pm] [GOOD]: Devices to Create: (0) []
+[7/14/2022, 2:34:30 pm] [ALERT]: Total Initialization Time: (2 seconds) 
+[7/14/2022, 2:34:30 pm] [NOTICE]: Unknown Capabilities: ["Ocf","Execute"] 
+[7/14/2022, 2:34:30 pm] [INFO]: SmartThings DeviceCache Size: (19) 
+[7/14/2022, 2:34:30 pm] [INFO]: WebServer Initiated... 
+[7/14/2022, 2:34:30 pm] [INFO]: Sending StartDirect Request to SmartThings | SendToLocalHub: (false) 
+[7/14/2022, 2:34:30 pm] [INFO]: Direct Connect Active | Listening at 10.0.0.10:8000 
+[7/14/2022, 2:34:31 pm] [INFO]: SmartThings-v2 Hub Communication Established 
+[7/14/2022, 2:36:10 pm] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.6 
+[7/14/2022, 2:40:31 pm] [INFO]: Homebridge Version: 2.7 
+[7/14/2022, 2:40:31 pm] [INFO]: SmartThings-v2 Plugin Version: 2.3.8 
+[7/14/2022, 2:40:31 pm] [INFO]: Checking Package Version for Updates... 
+[7/14/2022, 2:40:31 pm] [INFO]: Fetching SmartThings-v2 Devices. NOTICE: This may take a moment if you have a large number of device data is being loaded! 
+[7/14/2022, 2:40:31 pm] [GOOD]: Refreshing All Device Data | Source: (First Launch) 
+[7/14/2022, 2:40:32 pm] [INFO]: INFO: Your plugin version is up-to-date 
+[7/14/2022, 2:40:32 pm] [NOTICE]: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8 
+[7/14/2022, 2:40:33 pm] [NOTICE]: Temperature Unit is Now: (F) 
+[7/14/2022, 2:40:33 pm] [NOTICE]: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false 
+[7/14/2022, 2:40:33 pm] [WARN]: Devices to Remove: (0) []
+[7/14/2022, 2:40:33 pm] [INFO]: Devices to Update: (19) 
+[7/14/2022, 2:40:33 pm] [GOOD]: Devices to Create: (0) []
+[7/14/2022, 2:40:33 pm] [ALERT]: Total Initialization Time: (2 seconds) 
+[7/14/2022, 2:40:33 pm] [NOTICE]: Unknown Capabilities: ["Ocf","Execute"] 
+[7/14/2022, 2:40:33 pm] [INFO]: SmartThings DeviceCache Size: (19) 
+[7/14/2022, 2:40:33 pm] [INFO]: WebServer Initiated... 
+[7/14/2022, 2:40:33 pm] [INFO]: Sending StartDirect Request to SmartThings | SendToLocalHub: (false) 
+[7/14/2022, 2:40:33 pm] [INFO]: Direct Connect Active | Listening at 10.0.0.10:8000 
+[7/14/2022, 2:40:33 pm] [INFO]: SmartThings-v2 Hub Communication Established 
+[7/14/2022, 2:48:33 pm] [INFO]: Homebridge Version: 2.7 
+[7/14/2022, 2:48:33 pm] [INFO]: SmartThings-v2 Plugin Version: 2.3.8 
+[7/14/2022, 2:48:33 pm] [INFO]: Checking Package Version for Updates... 
+[7/14/2022, 2:48:34 pm] [INFO]: Fetching SmartThings-v2 Devices. NOTICE: This may take a moment if you have a large number of device data is being loaded! 
+[7/14/2022, 2:48:34 pm] [GOOD]: Refreshing All Device Data | Source: (First Launch) 
+[7/14/2022, 2:48:35 pm] [INFO]: INFO: Your plugin version is up-to-date 
+[7/14/2022, 2:48:35 pm] [NOTICE]: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8 
+[7/14/2022, 2:48:35 pm] [NOTICE]: Temperature Unit is Now: (F) 
+[7/14/2022, 2:48:35 pm] [NOTICE]: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false 
+[7/14/2022, 2:48:35 pm] [WARN]: Devices to Remove: (0) []
+[7/14/2022, 2:48:35 pm] [INFO]: Devices to Update: (19) 
+[7/14/2022, 2:48:35 pm] [GOOD]: Devices to Create: (0) []
+[7/14/2022, 2:48:35 pm] [ALERT]: Total Initialization Time: (1 seconds) 
+[7/14/2022, 2:48:35 pm] [NOTICE]: Unknown Capabilities: ["Ocf","Execute"] 
+[7/14/2022, 2:48:35 pm] [INFO]: SmartThings DeviceCache Size: (19) 
+[7/14/2022, 2:48:35 pm] [INFO]: WebServer Initiated... 
+[7/14/2022, 2:48:35 pm] [INFO]: Sending StartDirect Request to SmartThings | SendToLocalHub: (false) 
+[7/14/2022, 2:48:35 pm] [INFO]: Direct Connect Active | Listening at 10.0.0.10:8000 
+[7/14/2022, 2:48:36 pm] [INFO]: SmartThings-v2 Hub Communication Established 
+[7/14/2022, 2:51:18 pm] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.7 
+[7/14/2022, 2:55:43 pm] [INFO]: Homebridge Version: 2.7 
+[7/14/2022, 2:55:43 pm] [INFO]: SmartThings-v2 Plugin Version: 2.3.8 
+[7/14/2022, 2:55:43 pm] [INFO]: Checking Package Version for Updates... 
+[7/14/2022, 2:55:43 pm] [INFO]: Fetching SmartThings-v2 Devices. NOTICE: This may take a moment if you have a large number of device data is being loaded! 
+[7/14/2022, 2:55:43 pm] [GOOD]: Refreshing All Device Data | Source: (First Launch) 
+[7/14/2022, 2:55:44 pm] [INFO]: INFO: Your plugin version is up-to-date 
+[7/14/2022, 2:55:44 pm] [NOTICE]: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8 
+[7/14/2022, 2:55:45 pm] [NOTICE]: Temperature Unit is Now: (F) 
+[7/14/2022, 2:55:45 pm] [NOTICE]: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false 
+[7/14/2022, 2:55:45 pm] [WARN]: Devices to Remove: (0) []
+[7/14/2022, 2:55:45 pm] [INFO]: Devices to Update: (19) 
+[7/14/2022, 2:55:45 pm] [GOOD]: Devices to Create: (0) []
+[7/14/2022, 2:55:45 pm] [ALERT]: Total Initialization Time: (1 seconds) 
+[7/14/2022, 2:55:45 pm] [NOTICE]: Unknown Capabilities: ["Ocf","Execute"] 
+[7/14/2022, 2:55:45 pm] [INFO]: SmartThings DeviceCache Size: (19) 
+[7/14/2022, 2:55:45 pm] [INFO]: WebServer Initiated... 
+[7/14/2022, 2:55:45 pm] [INFO]: Sending StartDirect Request to SmartThings | SendToLocalHub: (false) 
+[7/14/2022, 2:55:45 pm] [INFO]: Direct Connect Active | Listening at 10.0.0.10:8000 
+[7/14/2022, 2:55:45 pm] [INFO]: SmartThings-v2 Hub Communication Established 
+[7/14/2022, 3:01:23 pm] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.8 
+[7/14/2022, 3:04:05 pm] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.7 
+[7/14/2022, 3:04:17 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.3 
+[7/14/2022, 3:09:07 pm] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.6 
+[7/14/2022, 3:09:21 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.4 
+[7/14/2022, 3:14:10 pm] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.7 
+[7/14/2022, 3:16:31 pm] [INFO]: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.9 
+[7/14/2022, 3:24:30 pm] [INFO]: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.3 
+[7/14/2022, 3:34:21 pm] [INFO]: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.6 

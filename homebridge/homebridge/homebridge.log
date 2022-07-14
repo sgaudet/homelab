@@ -7337,3 +7337,766 @@ INFO: [Device Event]: (Side door light) [SWITCH] is on
 INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 76.4
 INFO: [Device Event]: (Side door light) [SWITCH] is off
 INFO: [Device Event]: (Side door light) [SWITCH] is off
+GOOD: Refreshing All Device Data
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (2 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: Checking Package Version for Updates...
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 76.2
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.7
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 76.1
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 76
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.8
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.7
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.6
+INFO: [Device Event]: (Overhead light) [LEVEL] is 4
+INFO: [Device Event]: (Overhead light) [SWITCH] is on
+INFO: [Device Event]: (Overhead light) [SWITCH] is on
+INFO: [Device Event]: (Overhead light) [LEVEL] is 100
+INFO: [Device Event]: (Overhead light) [LEVEL] is 96
+INFO: [Device Event]: (Overhead light) [SWITCH] is off
+INFO: [Device Event]: (Overhead light) [SWITCH] is off
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.7
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.5
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.4
+GOOD: Refreshing All Device Data
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (2 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: Checking Package Version for Updates...
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+INFO: [Device Event]: (Kitchen light) [SWITCH] is off
+INFO: [Device Event]: (Kitchen light) [SWITCH] is off
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 72
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.3
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 72.1
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.6
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 72
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.2
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.7
+GOOD: Refreshing All Device Data
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (1 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: Checking Package Version for Updates...
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.1
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.6
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.5
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.1
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.9
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 72
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.9
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.9
+GOOD: Refreshing All Device Data
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (1 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: Checking Package Version for Updates...
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.8
+[0;37m[7/14/2022, 1:10:21 AM] [0m[0;36m[Homebridge UI][0m Running job to cleanup config.json backup files older than 60 days...
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 72
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.9
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.4
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.7
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.4
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.6
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.4
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.5
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.8
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.9
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.8
+GOOD: Refreshing All Device Data
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (1 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: Checking Package Version for Updates...
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.4
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.3
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.2
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.7
+[0;37m[7/14/2022, 2:47:05 AM] [0m[0;36m[Homebridge UI][0m Running scheduled instance backup...
+[0;37m[7/14/2022, 2:47:05 AM] [0m[0;36m[Homebridge UI][0m Creating temporary backup archive at /tmp/homebridge-backup-JagfKo/homebridge-backup-0E6737E54E59.tar.gz
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.4
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.1
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3
+GOOD: Refreshing All Device Data
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (1 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: Checking Package Version for Updates...
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.9
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.6
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.7
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.5
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.6
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2
+GOOD: Refreshing All Device Data
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (2 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: Checking Package Version for Updates...
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.5
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.4
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.4
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.3
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.3
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.2
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.4
+GOOD: Refreshing All Device Data
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (1 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: Checking Package Version for Updates...
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.3
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.1
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.2
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.1
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.9
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2
+GOOD: Refreshing All Device Data
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (1 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: Checking Package Version for Updates...
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.8
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71.1
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.7
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.1
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.6
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.5
+GOOD: Refreshing All Device Data
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (2 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: Checking Package Version for Updates...
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.4
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.9
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 71
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.3
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.9
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.2
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.9
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.1
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.8
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.1
+GOOD: Refreshing All Device Data
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (2 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: Checking Package Version for Updates...
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 71.9
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 71.8
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 71.7
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.2
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.7
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.8
+INFO: [Device Event]: (Theater light) [SWITCH] is on
+INFO: [Device Event]: (Theater light) [SWITCH] is on
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.7
+GOOD: Refreshing All Device Data
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (1 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: Checking Package Version for Updates...
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 71.5
+[37m[7/14/2022, 9:15:30 AM] [39m[36m[Roomba][39m [33mUnsupported phase: evac[39m
+[37m[7/14/2022, 9:15:30 AM] [39m[36m[Roomba][39m [33mUnsupported phase: evac[39m
+[37m[7/14/2022, 9:15:40 AM] [39m[36m[Roomba][39m [33mUnsupported phase: evac[39m
+[37m[7/14/2022, 9:15:40 AM] [39m[36m[Roomba][39m [33mUnsupported phase: evac[39m
+[37m[7/14/2022, 9:19:10 AM] [39m[36m[Roomba][39m [33mUnsupported phase: evac[39m
+[37m[7/14/2022, 9:19:20 AM] [39m[36m[Roomba][39m [33mUnsupported phase: evac[39m
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.3
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 71.6
+INFO: [Device Event]: (Overhead light) [LEVEL] is 4
+INFO: [Device Event]: (Overhead light) [SWITCH] is on
+INFO: [Device Event]: (Overhead light) [SWITCH] is on
+INFO: [Device Event]: (Overhead light) [LEVEL] is 76
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.6
+INFO: [Device Event]: (Overhead light) [LEVEL] is 73
+INFO: [Device Event]: (Overhead light) [LEVEL] is 55
+INFO: [Device Event]: (Overhead light) [SWITCH] is off
+INFO: [Device Event]: (Overhead light) [SWITCH] is off
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 71.7
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.4
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 71.9
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.1
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.5
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.3
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.6
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.4
+GOOD: Refreshing All Device Data
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (1 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: Checking Package Version for Updates...
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.7
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 72.9
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.5
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.6
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.2
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.3
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.5
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.6
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.5
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.7
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 73.9
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.5
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.6
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.6
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.1
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.5
+GOOD: Refreshing All Device Data
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (2 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: Checking Package Version for Updates...
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.2
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.4
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.3
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.5
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.4
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.4
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.5
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.5
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.6
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.4
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.7
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.5
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.6
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.8
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.4
+GOOD: Refreshing All Device Data
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (1 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: Checking Package Version for Updates...
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.1
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.5
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.7
+[37m[7/14/2022, 12:17:28 PM] [39m[36m[Roomba][39m [33mUnsupported phase: evac[39m
+[37m[7/14/2022, 12:17:28 PM] [39m[36m[Roomba][39m [33mUnsupported phase: evac[39m
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.2
+[37m[7/14/2022, 12:17:38 PM] [39m[36m[Roomba][39m [33mUnsupported phase: evac[39m
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.3
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.4
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.7
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.3
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.6
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.4
+INFO: [Device Event]: (Meeting) [SWITCH] is on
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.5
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.3
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.9
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.2
+GOOD: Refreshing All Device Data
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (2 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: Checking Package Version for Updates...
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75.1
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.7
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 75
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.9
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.8
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.7
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.6
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.6
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.6
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.5
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.7
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.6
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.5
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.6
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.4
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.5
+GOOD: Refreshing All Device Data
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (2 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: Checking Package Version for Updates...
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.6
+NOTICE: Sending Device Command: off | Name: (Meeting) | DeviceID: (56e73bf6-6371-f0a2-04ec-d58f88ca0948) | SendToLocalHub: (false)
+INFO: [Device Event]: (Meeting) [SWITCH] is off
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.7
+[37m[7/14/2022, 2:34:19 PM][0m [36m[HB Supervisor][0m OS: Linux 5.4.0-122-generic x64
+[37m[7/14/2022, 2:34:19 PM][0m [36m[HB Supervisor][0m Node.js v16.13.1 /usr/local/bin/node
+[37m[7/14/2022, 2:34:19 PM][0m [36m[HB Supervisor][0m Homebridge Path: /usr/local/lib/node_modules/homebridge/bin/homebridge
+[37m[7/14/2022, 2:34:19 PM][0m [36m[HB Supervisor][0m UI Path: /usr/local/lib/node_modules/homebridge-config-ui-x/dist/bin/standalone.js
+[0;37m[7/14/2022, 2:34:23 PM] [0m[0;36m[Homebridge UI][0m [0;33mHomebridge Config UI X v4.46.0 is listening on :: port 8081[0m
+[37m[7/14/2022, 2:34:24 PM][0m [36m[HB Supervisor][0m Starting Homebridge with extra flags: -I -P /homebridge/node_modules
+[37m[7/14/2022, 2:34:25 PM][0m [36m[HB Supervisor][0m Started Homebridge v1.4.1 with PID: 373
+[37m[7/14/2022, 2:34:26 PM] [39mLoaded config.json with 1 accessories and 4 platforms.
+[37m[7/14/2022, 2:34:26 PM] [39mLoaded 21 cached accessories from cachedAccessories.
+[37m[7/14/2022, 2:34:26 PM] [39m---
+[37m[7/14/2022, 2:34:27 PM] [39mLoaded plugin: homebridge-dummy@0.6.0
+[37m[7/14/2022, 2:34:27 PM] [39mRegistering accessory 'homebridge-dummy.DummySwitch'
+[37m[7/14/2022, 2:34:27 PM] [39m---
+[37m[7/14/2022, 2:34:27 PM] [39mLoaded plugin: homebridge-midea-air@1.5.1
+[37m[7/14/2022, 2:34:27 PM] [39mRegistering platform 'homebridge-midea-air.midea-air'
+[37m[7/14/2022, 2:34:27 PM] [39m---
+[37m[7/14/2022, 2:34:27 PM] [39m[33mDisabled plugin: homebridge-nest@4.6.9[39m
+[37m[7/14/2022, 2:34:27 PM] [39m---
+[37m[7/14/2022, 2:34:28 PM] [39mLoaded plugin: homebridge-roomba2@1.3.1
+[37m[7/14/2022, 2:34:28 PM] [39mRegistering accessory 'homebridge-roomba2.Roomba2'
+[37m[7/14/2022, 2:34:28 PM] [39m---
+[37m[7/14/2022, 2:34:28 PM] [39mLoaded plugin: homebridge-smartthings@2.3.8
+[37m[7/14/2022, 2:34:28 PM] [39mRegistering platform 'homebridge-smartthings.SmartThings-v2'
+[37m[7/14/2022, 2:34:28 PM] [39m---
+[37m[7/14/2022, 2:34:28 PM] [39mLoaded plugin: homebridge-config-ui-x@4.46.0
+[37m[7/14/2022, 2:34:28 PM] [39mRegistering platform 'homebridge-config-ui-x.config'
+[37m[7/14/2022, 2:34:28 PM] [39m---
+[37m[7/14/2022, 2:34:28 PM] [39mLoading 4 platforms...
+[37m[7/14/2022, 2:34:28 PM] [39m[36m[Config][39m Initializing config platform...
+[37m[7/14/2022, 2:34:28 PM] [39m[36m[Config][39m Running in Service Mode
+[37m[7/14/2022, 2:34:28 PM] [39m[36m[SmartThings-v2][39m Initializing SmartThings-v2 platform...
+INFO: Homebridge Version: 2.7
+INFO: SmartThings-v2 Plugin Version: 2.3.8
+INFO: Checking Package Version for Updates...
+[37m[7/14/2022, 2:34:28 PM] [39m[33mIgnoring config for the platform "Nest" in your config.json as the plugin "homebridge-nest" has been disabled.[39m
+[37m[7/14/2022, 2:34:28 PM] [39m[36m[midea-air][39m Initializing midea-air platform...
+[37m[7/14/2022, 2:34:28 PM] [39mLoading 1 accessories...
+[37m[7/14/2022, 2:34:28 PM] [39m[36m[Roomba][39m Initializing Roomba2 accessory...
+[37m[7/14/2022, 2:34:29 PM] [39m[36m[midea-air][39m Loading accessory from cache: Upstairs
+[37m[7/14/2022, 2:34:29 PM] [39m[36m[midea-air][39m Loading accessory from cache: Downstairs
+INFO: Fetching SmartThings-v2 Devices. NOTICE: This may take a moment if you have a large number of device data is being loaded!
+GOOD: Refreshing All Device Data | Source: (First Launch)
+Setup Payload:
+X-HM://0023ISYXDUKQX
+Enter this code with your HomeKit app on your iOS device to pair with Homebridge:
+[30m[47m                       [49m[39m
+[30m[47m    ┌────────────┐     [49m[39m
+[30m[47m    │ 031-45-169 │     [49m[39m
+[30m[47m    └────────────┘     [49m[39m
+[30m[47m                       [49m[39m
+[37m[7/14/2022, 2:34:29 PM] [39mHomebridge v1.4.1 (HAP v0.10.2) (Homebridge 4F66) is running on port 53929.
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+[37m[7/14/2022, 2:34:30 PM] [39m[36m[midea-air][39m Created device: Upstairs, with ID: 141836999990726, and type: 172
+[37m[7/14/2022, 2:34:30 PM] [39m[36m[midea-air][39m Created device: Downstairs, with ID: 30786325675079, and type: 172
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (2 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: WebServer Initiated...
+INFO: Sending StartDirect Request to SmartThings | SendToLocalHub: (false)
+INFO: Direct Connect Active | Listening at 10.0.0.10:8000
+INFO: SmartThings-v2 Hub Communication Established
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.6
+
+
+    [1;37mThank you for using the [4;36moznu/homebridge[0m [1;37mdocker image![0m
+
+  If you find this project useful please [1;33mSTAR[0m it on GitHub:
+
+         [4;37mhttps://github.com/oznu/docker-homebridge[0m
+
+                Or donate to the project:
+
+            [4;37mhttps://github.com/sponsors/oznu[0m
+                  [4;37mhttps://paypal.me/oznu[0m
+
+[37m[7/14/2022, 2:40:00 PM][0m [36m[HB Supervisor][0m OS: Linux 5.4.0-122-generic x64
+[37m[7/14/2022, 2:40:00 PM][0m [36m[HB Supervisor][0m Node.js v16.13.1 /usr/local/bin/node
+[37m[7/14/2022, 2:40:00 PM][0m [36m[HB Supervisor][0m Homebridge Path: /usr/local/lib/node_modules/homebridge/bin/homebridge
+[37m[7/14/2022, 2:40:00 PM][0m [36m[HB Supervisor][0m UI Path: /usr/local/lib/node_modules/homebridge-config-ui-x/dist/bin/standalone.js
+
+
+    [1;37mThank you for using the [4;36moznu/homebridge[0m [1;37mdocker image![0m
+
+  If you find this project useful please [1;33mSTAR[0m it on GitHub:
+
+         [4;37mhttps://github.com/oznu/docker-homebridge[0m
+
+                Or donate to the project:
+
+            [4;37mhttps://github.com/sponsors/oznu[0m
+                  [4;37mhttps://paypal.me/oznu[0m
+
+[0;37m[7/14/2022, 2:40:03 PM] [0m[0;36m[Homebridge UI][0m [0;33mHomebridge Config UI X v4.46.0 is listening on :: port 8081[0m
+[37m[7/14/2022, 2:40:03 PM][0m [36m[HB Supervisor][0m Starting Homebridge with extra flags: -I -P /homebridge/node_modules
+[37m[7/14/2022, 2:40:04 PM][0m [36m[HB Supervisor][0m Started Homebridge v1.4.1 with PID: 389
+[37m[7/14/2022, 2:40:24 PM][0m [36m[HB Supervisor][0m OS: Linux 5.4.0-122-generic x64
+[37m[7/14/2022, 2:40:24 PM][0m [36m[HB Supervisor][0m Node.js v16.13.1 /usr/local/bin/node
+[37m[7/14/2022, 2:40:24 PM][0m [36m[HB Supervisor][0m Homebridge Path: /usr/local/lib/node_modules/homebridge/bin/homebridge
+[37m[7/14/2022, 2:40:24 PM][0m [36m[HB Supervisor][0m UI Path: /usr/local/lib/node_modules/homebridge-config-ui-x/dist/bin/standalone.js
+[0;37m[7/14/2022, 2:40:27 PM] [0m[0;36m[Homebridge UI][0m [0;33mHomebridge Config UI X v4.46.0 is listening on :: port 8081[0m
+[37m[7/14/2022, 2:40:28 PM][0m [36m[HB Supervisor][0m Starting Homebridge with extra flags: -I -P /homebridge/node_modules
+[37m[7/14/2022, 2:40:28 PM][0m [36m[HB Supervisor][0m Started Homebridge v1.4.1 with PID: 374
+[37m[7/14/2022, 2:40:29 PM] [39mLoaded config.json with 1 accessories and 4 platforms.
+[37m[7/14/2022, 2:40:29 PM] [39mLoaded 21 cached accessories from cachedAccessories.
+[37m[7/14/2022, 2:40:29 PM] [39m---
+[37m[7/14/2022, 2:40:30 PM] [39mLoaded plugin: homebridge-dummy@0.6.0
+[37m[7/14/2022, 2:40:30 PM] [39mRegistering accessory 'homebridge-dummy.DummySwitch'
+[37m[7/14/2022, 2:40:30 PM] [39m---
+[37m[7/14/2022, 2:40:30 PM] [39mLoaded plugin: homebridge-midea-air@1.5.1
+[37m[7/14/2022, 2:40:30 PM] [39mRegistering platform 'homebridge-midea-air.midea-air'
+[37m[7/14/2022, 2:40:30 PM] [39m---
+[37m[7/14/2022, 2:40:30 PM] [39m[33mDisabled plugin: homebridge-nest@4.6.9[39m
+[37m[7/14/2022, 2:40:30 PM] [39m---
+[37m[7/14/2022, 2:40:31 PM] [39mLoaded plugin: homebridge-roomba2@1.3.1
+[37m[7/14/2022, 2:40:31 PM] [39mRegistering accessory 'homebridge-roomba2.Roomba2'
+[37m[7/14/2022, 2:40:31 PM] [39m---
+[37m[7/14/2022, 2:40:31 PM] [39mLoaded plugin: homebridge-smartthings@2.3.8
+[37m[7/14/2022, 2:40:31 PM] [39mRegistering platform 'homebridge-smartthings.SmartThings-v2'
+[37m[7/14/2022, 2:40:31 PM] [39m---
+[37m[7/14/2022, 2:40:31 PM] [39mLoaded plugin: homebridge-config-ui-x@4.46.0
+[37m[7/14/2022, 2:40:31 PM] [39mRegistering platform 'homebridge-config-ui-x.config'
+[37m[7/14/2022, 2:40:31 PM] [39m---
+[37m[7/14/2022, 2:40:31 PM] [39mLoading 4 platforms...
+[37m[7/14/2022, 2:40:31 PM] [39m[36m[Config][39m Initializing config platform...
+[37m[7/14/2022, 2:40:31 PM] [39m[36m[Config][39m Running in Service Mode
+[37m[7/14/2022, 2:40:31 PM] [39m[36m[SmartThings-v2][39m Initializing SmartThings-v2 platform...
+INFO: Homebridge Version: 2.7
+INFO: SmartThings-v2 Plugin Version: 2.3.8
+INFO: Checking Package Version for Updates...
+[37m[7/14/2022, 2:40:31 PM] [39m[33mIgnoring config for the platform "Nest" in your config.json as the plugin "homebridge-nest" has been disabled.[39m
+[37m[7/14/2022, 2:40:31 PM] [39m[36m[midea-air][39m Initializing midea-air platform...
+[37m[7/14/2022, 2:40:31 PM] [39mLoading 1 accessories...
+[37m[7/14/2022, 2:40:31 PM] [39m[36m[Roomba][39m Initializing Roomba2 accessory...
+[37m[7/14/2022, 2:40:31 PM] [39m[36m[midea-air][39m Loading accessory from cache: Upstairs
+[37m[7/14/2022, 2:40:31 PM] [39m[36m[midea-air][39m Loading accessory from cache: Downstairs
+INFO: Fetching SmartThings-v2 Devices. NOTICE: This may take a moment if you have a large number of device data is being loaded!
+GOOD: Refreshing All Device Data | Source: (First Launch)
+Setup Payload:
+X-HM://0023ISYXDUKQX
+Enter this code with your HomeKit app on your iOS device to pair with Homebridge:
+[30m[47m                       [49m[39m
+[30m[47m    ┌────────────┐     [49m[39m
+[30m[47m    │ 031-45-169 │     [49m[39m
+[30m[47m    └────────────┘     [49m[39m
+[30m[47m                       [49m[39m
+[37m[7/14/2022, 2:40:31 PM] [39mHomebridge v1.4.1 (HAP v0.10.2) (Homebridge 4F66) is running on port 53929.
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (2 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: WebServer Initiated...
+INFO: Sending StartDirect Request to SmartThings | SendToLocalHub: (false)
+INFO: Direct Connect Active | Listening at 10.0.0.10:8000
+[37m[7/14/2022, 2:40:33 PM] [39m[36m[midea-air][39m Created device: Upstairs, with ID: 141836999990726, and type: 172
+[37m[7/14/2022, 2:40:33 PM] [39m[36m[midea-air][39m Created device: Downstairs, with ID: 30786325675079, and type: 172
+INFO: SmartThings-v2 Hub Communication Established
+
+
+    [1;37mThank you for using the [4;36moznu/homebridge[0m [1;37mdocker image![0m
+
+  If you find this project useful please [1;33mSTAR[0m it on GitHub:
+
+         [4;37mhttps://github.com/oznu/docker-homebridge[0m
+
+                Or donate to the project:
+
+            [4;37mhttps://github.com/sponsors/oznu[0m
+                  [4;37mhttps://paypal.me/oznu[0m
+
+[37m[7/14/2022, 2:48:26 PM][0m [36m[HB Supervisor][0m OS: Linux 5.4.0-122-generic x64
+[37m[7/14/2022, 2:48:26 PM][0m [36m[HB Supervisor][0m Node.js v16.13.1 /usr/local/bin/node
+[37m[7/14/2022, 2:48:26 PM][0m [36m[HB Supervisor][0m Homebridge Path: /usr/local/lib/node_modules/homebridge/bin/homebridge
+[37m[7/14/2022, 2:48:26 PM][0m [36m[HB Supervisor][0m UI Path: /usr/local/lib/node_modules/homebridge-config-ui-x/dist/bin/standalone.js
+[0;37m[7/14/2022, 2:48:30 PM] [0m[0;36m[Homebridge UI][0m [0;33mHomebridge Config UI X v4.46.0 is listening on :: port 8081[0m
+[37m[7/14/2022, 2:48:30 PM][0m [36m[HB Supervisor][0m Starting Homebridge with extra flags: -I -P /homebridge/node_modules
+[37m[7/14/2022, 2:48:30 PM][0m [36m[HB Supervisor][0m Started Homebridge v1.4.1 with PID: 374
+[37m[7/14/2022, 2:48:31 PM] [39mLoaded config.json with 1 accessories and 4 platforms.
+[37m[7/14/2022, 2:48:31 PM] [39mLoaded 21 cached accessories from cachedAccessories.
+[37m[7/14/2022, 2:48:31 PM] [39m---
+[37m[7/14/2022, 2:48:32 PM] [39mLoaded plugin: homebridge-dummy@0.6.0
+[37m[7/14/2022, 2:48:32 PM] [39mRegistering accessory 'homebridge-dummy.DummySwitch'
+[37m[7/14/2022, 2:48:32 PM] [39m---
+[37m[7/14/2022, 2:48:32 PM] [39mLoaded plugin: homebridge-midea-air@1.5.1
+[37m[7/14/2022, 2:48:32 PM] [39mRegistering platform 'homebridge-midea-air.midea-air'
+[37m[7/14/2022, 2:48:32 PM] [39m---
+[37m[7/14/2022, 2:48:32 PM] [39m[33mDisabled plugin: homebridge-nest@4.6.9[39m
+[37m[7/14/2022, 2:48:32 PM] [39m---
+[37m[7/14/2022, 2:48:33 PM] [39mLoaded plugin: homebridge-roomba2@1.3.1
+[37m[7/14/2022, 2:48:33 PM] [39mRegistering accessory 'homebridge-roomba2.Roomba2'
+[37m[7/14/2022, 2:48:33 PM] [39m---
+[37m[7/14/2022, 2:48:33 PM] [39mLoaded plugin: homebridge-smartthings@2.3.8
+[37m[7/14/2022, 2:48:33 PM] [39mRegistering platform 'homebridge-smartthings.SmartThings-v2'
+[37m[7/14/2022, 2:48:33 PM] [39m---
+[37m[7/14/2022, 2:48:33 PM] [39mLoaded plugin: homebridge-config-ui-x@4.46.0
+[37m[7/14/2022, 2:48:33 PM] [39mRegistering platform 'homebridge-config-ui-x.config'
+[37m[7/14/2022, 2:48:33 PM] [39m---
+[37m[7/14/2022, 2:48:33 PM] [39mLoading 4 platforms...
+[37m[7/14/2022, 2:48:33 PM] [39m[36m[Config][39m Initializing config platform...
+[37m[7/14/2022, 2:48:33 PM] [39m[36m[Config][39m Running in Service Mode
+[37m[7/14/2022, 2:48:33 PM] [39m[36m[SmartThings-v2][39m Initializing SmartThings-v2 platform...
+INFO: Homebridge Version: 2.7
+INFO: SmartThings-v2 Plugin Version: 2.3.8
+INFO: Checking Package Version for Updates...
+[37m[7/14/2022, 2:48:33 PM] [39m[33mIgnoring config for the platform "Nest" in your config.json as the plugin "homebridge-nest" has been disabled.[39m
+[37m[7/14/2022, 2:48:33 PM] [39m[36m[midea-air][39m Initializing midea-air platform...
+[37m[7/14/2022, 2:48:33 PM] [39mLoading 1 accessories...
+[37m[7/14/2022, 2:48:33 PM] [39m[36m[Roomba][39m Initializing Roomba2 accessory...
+[37m[7/14/2022, 2:48:34 PM] [39m[36m[midea-air][39m Loading accessory from cache: Upstairs
+[37m[7/14/2022, 2:48:34 PM] [39m[36m[midea-air][39m Loading accessory from cache: Downstairs
+INFO: Fetching SmartThings-v2 Devices. NOTICE: This may take a moment if you have a large number of device data is being loaded!
+GOOD: Refreshing All Device Data | Source: (First Launch)
+Setup Payload:
+X-HM://0023ISYXDUKQX
+Enter this code with your HomeKit app on your iOS device to pair with Homebridge:
+[30m[47m                       [49m[39m
+[30m[47m    ┌────────────┐     [49m[39m
+[30m[47m    │ 031-45-169 │     [49m[39m
+[30m[47m    └────────────┘     [49m[39m
+[30m[47m                       [49m[39m
+[37m[7/14/2022, 2:48:34 PM] [39mHomebridge v1.4.1 (HAP v0.10.2) (Homebridge 4F66) is running on port 53929.
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+[37m[7/14/2022, 2:48:35 PM] [39m[36m[midea-air][39m Created device: Upstairs, with ID: 141836999990726, and type: 172
+[37m[7/14/2022, 2:48:35 PM] [39m[36m[midea-air][39m Created device: Downstairs, with ID: 30786325675079, and type: 172
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (1 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: WebServer Initiated...
+INFO: Sending StartDirect Request to SmartThings | SendToLocalHub: (false)
+INFO: Direct Connect Active | Listening at 10.0.0.10:8000
+INFO: SmartThings-v2 Hub Communication Established
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.7
+
+
+    [1;37mThank you for using the [4;36moznu/homebridge[0m [1;37mdocker image![0m
+
+  If you find this project useful please [1;33mSTAR[0m it on GitHub:
+
+         [4;37mhttps://github.com/oznu/docker-homebridge[0m
+
+                Or donate to the project:
+
+            [4;37mhttps://github.com/sponsors/oznu[0m
+                  [4;37mhttps://paypal.me/oznu[0m
+
+[37m[7/14/2022, 2:55:40 PM][0m [36m[HB Supervisor][0m OS: Linux 5.4.0-122-generic x64
+[37m[7/14/2022, 2:55:40 PM][0m [36m[HB Supervisor][0m Node.js v16.16.0 /opt/homebridge/bin/node
+[37m[7/14/2022, 2:55:40 PM][0m [36m[HB Supervisor][0m Homebridge Path: /var/lib/homebridge/node_modules/homebridge/bin/homebridge
+[37m[7/14/2022, 2:55:40 PM][0m [36m[HB Supervisor][0m UI Path: /opt/homebridge/lib/node_modules/homebridge-config-ui-x/dist/bin/standalone.js
+[0;37m[7/14/2022, 2:55:42 PM] [0m[0;36m[Homebridge UI][0m [0;33mHomebridge Config UI X v4.49.0 is listening on :: port 8081[0m
+[37m[7/14/2022, 2:55:42 PM][0m [36m[HB Supervisor][0m Starting Homebridge with extra flags: -I -P /var/lib/homebridge/node_modules --strict-plugin-resolution
+[37m[7/14/2022, 2:55:42 PM][0m [36m[HB Supervisor][0m Started Homebridge v1.5.0 with PID: 167
+[37m[7/14/2022, 2:55:42 PM] [39mLoaded config.json with 1 accessories and 4 platforms.
+[37m[7/14/2022, 2:55:42 PM] [39mLoaded 21 cached accessories from cachedAccessories.
+[37m[7/14/2022, 2:55:43 PM] [39m---
+[37m[7/14/2022, 2:55:43 PM] [39mLoaded plugin: homebridge-dummy@0.6.0
+[37m[7/14/2022, 2:55:43 PM] [39mRegistering accessory 'homebridge-dummy.DummySwitch'
+[37m[7/14/2022, 2:55:43 PM] [39m---
+[37m[7/14/2022, 2:55:43 PM] [39mLoaded plugin: homebridge-midea-air@1.5.4
+[37m[7/14/2022, 2:55:43 PM] [39mRegistering platform 'homebridge-midea-air.midea-air'
+[37m[7/14/2022, 2:55:43 PM] [39m---
+[37m[7/14/2022, 2:55:43 PM] [39m[33mDisabled plugin: homebridge-nest@4.6.9[39m
+[37m[7/14/2022, 2:55:43 PM] [39m---
+[37m[7/14/2022, 2:55:43 PM] [39mLoaded plugin: homebridge-roomba2@1.3.1
+[37m[7/14/2022, 2:55:43 PM] [39mRegistering accessory 'homebridge-roomba2.Roomba2'
+[37m[7/14/2022, 2:55:43 PM] [39m---
+[37m[7/14/2022, 2:55:43 PM] [39mLoaded plugin: homebridge-smartthings@2.3.8
+[37m[7/14/2022, 2:55:43 PM] [39mRegistering platform 'homebridge-smartthings.SmartThings-v2'
+[37m[7/14/2022, 2:55:43 PM] [39m---
+[37m[7/14/2022, 2:55:43 PM] [39mLoading 4 platforms...
+[37m[7/14/2022, 2:55:43 PM] [39m[36m[SmartThings-v2][39m Initializing SmartThings-v2 platform...
+INFO: Homebridge Version: 2.7
+INFO: SmartThings-v2 Plugin Version: 2.3.8
+INFO: Checking Package Version for Updates...
+[37m[7/14/2022, 2:55:43 PM] [39m[33mIgnoring config for the platform "Nest" in your config.json as the plugin "homebridge-nest" has been disabled.[39m
+[37m[7/14/2022, 2:55:43 PM] [39m[36m[midea-air][39m Initializing midea-air platform...
+[37m[7/14/2022, 2:55:43 PM] [39mLoading 1 accessories...
+[37m[7/14/2022, 2:55:43 PM] [39m[36m[Roomba][39m Initializing Roomba2 accessory...
+[37m[7/14/2022, 2:55:43 PM] [39m[36m[midea-air][39m Loading accessory from cache: Upstairs
+[37m[7/14/2022, 2:55:43 PM] [39m[36m[midea-air][39m Loading accessory from cache: Downstairs
+INFO: Fetching SmartThings-v2 Devices. NOTICE: This may take a moment if you have a large number of device data is being loaded!
+GOOD: Refreshing All Device Data | Source: (First Launch)
+Setup Payload:
+X-HM://0023ISYXDUKQX
+Enter this code with your HomeKit app on your iOS device to pair with Homebridge:
+[30m[47m                       [49m[39m
+[30m[47m    ┌────────────┐     [49m[39m
+[30m[47m    │ 031-45-169 │     [49m[39m
+[30m[47m    └────────────┘     [49m[39m
+[30m[47m                       [49m[39m
+[37m[7/14/2022, 2:55:44 PM] [39mHomebridge v1.5.0 (HAP v0.10.2) (Homebridge 4F66) is running on port 53929.
+INFO: INFO: Your plugin version is up-to-date
+NOTICE: Sending Plugin Status to SmartThings | UpdateAvailable: false | newVersion: 2.3.8
+[37m[7/14/2022, 2:55:45 PM] [39m[36m[midea-air][39m Created device: Upstairs, with ID: 141836999990726, and type: 172
+[37m[7/14/2022, 2:55:45 PM] [39m[36m[midea-air][39m Created device: Downstairs, with ID: 30786325675079, and type: 172
+NOTICE: Temperature Unit is Now: (F)
+NOTICE: Updating Global Values | HubIP: 10.0.0.120 | UseLocal: false
+WARN: Devices to Remove: (0) []
+INFO: Devices to Update: (19)
+GOOD: Devices to Create: (0) []
+ALERT: Total Initialization Time: (1 seconds)
+NOTICE: Unknown Capabilities: ["Ocf","Execute"]
+INFO: SmartThings DeviceCache Size: (19)
+INFO: WebServer Initiated...
+INFO: Sending StartDirect Request to SmartThings | SendToLocalHub: (false)
+INFO: Direct Connect Active | Listening at 10.0.0.10:8000
+INFO: SmartThings-v2 Hub Communication Established
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.8
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.7
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.3
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.6
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.4
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.7
+INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.9
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 74.3
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 70.6

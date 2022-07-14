@@ -6,16 +6,6 @@
     "auditLog": "/homebridge/homebridge-smartthings-logaudit.json",
     "files": [
         {
-            "date": 1657339237796,
-            "name": "/homebridge/homebridge-smartthings-2022-07-09.log",
-            "hash": "7d62ff45571d989408d71446840ae005"
-        },
-        {
-            "date": 1657425997926,
-            "name": "/homebridge/homebridge-smartthings-2022-07-10.log",
-            "hash": "cc74256c2d9d5118674184745aaac852"
-        },
-        {
             "date": 1657512540665,
             "name": "/homebridge/homebridge-smartthings-2022-07-11.log",
             "hash": "5a6aee93d19ddd641a0010e3c93c238d"
@@ -29,6 +19,17 @@
             "date": 1657685026755,
             "name": "/homebridge/homebridge-smartthings-2022-07-13.log",
             "hash": "2fed6a5bf99b814069d84a67551b69a3"
+        },
+        {
+            "date": 1657771704782,
+            "name": "/homebridge/homebridge-smartthings-2022-07-14.log",
+            "hash": "b934915fa04796196d7e1753fec99e5b"
+        },
+        {
+            "date": 1657824943742,
+            "name": "/var/lib/homebridge/homebridge-smartthings-2022-07-14.log",
+            "hash": "d0c69c56daae39e4724183e2ad0722eb1f4391eeac264ac5911d95728584c992"
         }
-    ]
+    ],
+    "hashType": "sha256"
 }

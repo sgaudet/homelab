@@ -178,7 +178,7 @@
                 "manufacturer": "Sharp",
                 "model": "LC-55LBU591U",
                 "name": "Living Room TV",
-                "sw_version": "10.5.0",
+                "sw_version": "11.0.0",
                 "entry_type": null,
                 "id": "a5405e4a0a4532d5692ee1de789fe00b",
                 "via_device_id": null,
@@ -201,7 +201,7 @@
                 "manufacturer": "HEOS",
                 "model": "Denon AVR-S650H",
                 "name": "Receiver",
-                "sw_version": "2.47.190",
+                "sw_version": "2.47.350",
                 "entry_type": null,
                 "id": "f8e9486492c893af41d4032b061a786f",
                 "via_device_id": null,
@@ -268,11 +268,11 @@
                 "connections": [
                     [
                         "mac",
-                        "00:17:88:7c:b8:f7"
+                        "00:17:88:01:01:cc:b8:f7"
                     ],
                     [
                         "mac",
-                        "00:17:88:01:01:cc:b8:f7"
+                        "00:17:88:7c:b8:f7"
                     ]
                 ],
                 "identifiers": [
@@ -286,9 +286,9 @@
                     ]
                 ],
                 "manufacturer": "Signify Netherlands B.V.",
-                "model": "Philips hue (BSB002)",
+                "model": "BSB002",
                 "name": "Philips hue",
-                "sw_version": "1.50.1950207110",
+                "sw_version": "1.52.1952086020",
                 "entry_type": null,
                 "id": "060b2f3955640f99ecce8fc11240ba59",
                 "via_device_id": null,

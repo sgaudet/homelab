@@ -587,7 +587,7 @@
                     "source_list": [
                         "Xbox",
                         "NintendoSwitch",
-                        "Blu-ray",
+                        "Basement",
                         "Game",
                         "AUX",
                         "Media Player",
@@ -609,7 +609,7 @@
                 "original_icon": null,
                 "original_name": "Receiver",
                 "platform": "heos",
-                "supported_features": 589373,
+                "supported_features": 589357,
                 "unique_id": "-668258629",
                 "unit_of_measurement": null
             },
@@ -618,7 +618,7 @@
                 "capabilities": {
                     "source_list": [
                         "AUX",
-                        "Blu-ray",
+                        "Basement",
                         "Bluetooth",
                         "Game",
                         "HEOS Music",

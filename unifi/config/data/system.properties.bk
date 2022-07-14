@@ -40,11 +40,13 @@
 # Port used for throughput measurement.
 # unifi.throughput.port=6789
 #
-#Sun Apr 24 18:08:46 UTC 2022
+#Thu Jul 14 18:58:13 UTC 2022
 debug.device=warn
 debug.mgmt=warn
 debug.sdn=warn
+debug.setting_preference=auto
 debug.system=warn
 is_default=false
 reporter-uuid=49256e6d-d600-4e19-9743-ced973862393
+unifi.xmx=1024M
 uuid=0b13cd39-c1f2-4a70-add6-0f25a12d0999
