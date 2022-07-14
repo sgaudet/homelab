@@ -742,3 +742,8 @@
 [14/Jul/2022:01:19:26 +0000] 200 - GET http 98.2.215.199 "/" [Client 185.7.214.104] [Length 568] [Gzip 1.86] "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" "-"
 [14/Jul/2022:01:23:29 +0000] 404 - GET http 98.2.215.199 "/config/getuser?index=0" [Client 45.61.186.139] [Length 122] [Gzip 1.35] "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0" "-"
 [14/Jul/2022:01:32:06 +0000] 404 - GET http https-enabled.com "/cache/accesson0.php" [Client 193.201.9.12] [Length 122] [Gzip 1.35] "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0" "-"
+[14/Jul/2022:01:53:57 +0000] 404 - GET http 98.2.215.199 "/actuator/gateway/routes" [Client 185.7.214.104] [Length 183] [Gzip 3.21] "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" "-"
+[14/Jul/2022:01:56:25 +0000] 400 - - http localhost-nginx-proxy-manager "-" [Client 94.232.44.25] [Length 154] [Gzip -] "-" "-"
+[14/Jul/2022:02:06:57 +0000] 444 - GET https 98.2.215.199 "/owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f" [Client 192.241.208.180] [Length 0] [Gzip -] "Mozilla/5.0 zgrab/0.x" "-"
+[14/Jul/2022:02:07:18 +0000] 404 - GET http https-enabled.com "/.env" [Client 109.237.100.22] [Length 183] [Gzip 3.21] "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" "-"
+[14/Jul/2022:02:07:19 +0000] 444 - GET https https-enabled.com "/.env" [Client 109.237.100.22] [Length 0] [Gzip -] "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" "-"

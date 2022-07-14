@@ -7331,3 +7331,9 @@ INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 76.6
 INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 76.5
 INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 72.2
 INFO: [Device Event]: (Water Leak Sensor - Data Center) [TEMPERATURE] is 64.8
+INFO: [Device Event]: (Water Leak Sensor - Washing Machine) [TEMPERATURE] is 72.1
+INFO: [Device Event]: (Side door light) [SWITCH] is on
+INFO: [Device Event]: (Side door light) [SWITCH] is on
+INFO: [Device Event]: (Water Leak Sensor - Kitchen) [TEMPERATURE] is 76.4
+INFO: [Device Event]: (Side door light) [SWITCH] is off
+INFO: [Device Event]: (Side door light) [SWITCH] is off
