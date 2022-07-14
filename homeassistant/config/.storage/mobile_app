@@ -1,0 +1,230 @@
+{
+    "version": 1,
+    "key": "mobile_app",
+    "data": {
+        "binary_sensor": {},
+        "deleted_ids": [],
+        "sensor": {
+            "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294_activity": {
+                "attributes": {
+                    "Confidence": "High",
+                    "Types": [
+                        "Stationary"
+                    ]
+                },
+                "icon": "mdi:human-male",
+                "name": "Activity",
+                "state": "Stationary",
+                "type": "sensor",
+                "unique_id": "activity",
+                "webhook_id": "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294",
+                "added": true
+            },
+            "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294_pedometer_distance": {
+                "icon": "mdi:hiking",
+                "name": "Distance",
+                "state": 326,
+                "type": "sensor",
+                "unique_id": "pedometer_distance",
+                "unit_of_measurement": "m",
+                "attributes": {},
+                "webhook_id": "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294",
+                "added": true
+            },
+            "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294_pedometer_floors_ascended": {
+                "icon": "mdi:stairs-up",
+                "name": "Floors Ascended",
+                "state": 5,
+                "type": "sensor",
+                "unique_id": "pedometer_floors_ascended",
+                "unit_of_measurement": "floors",
+                "attributes": {},
+                "webhook_id": "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294",
+                "added": true
+            },
+            "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294_pedometer_floors_descended": {
+                "icon": "mdi:stairs-down",
+                "name": "Floors Descended",
+                "state": 4,
+                "type": "sensor",
+                "unique_id": "pedometer_floors_descended",
+                "unit_of_measurement": "floors",
+                "attributes": {},
+                "webhook_id": "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294",
+                "added": true
+            },
+            "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294_pedometer_steps": {
+                "icon": "mdi:walk",
+                "name": "Steps",
+                "state": 438,
+                "type": "sensor",
+                "unique_id": "pedometer_steps",
+                "unit_of_measurement": "steps",
+                "attributes": {},
+                "webhook_id": "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294",
+                "added": true
+            },
+            "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294_pedometer_avg_active_pace": {
+                "icon": "mdi:speedometer",
+                "name": "Average Active Pace",
+                "state": 1,
+                "type": "sensor",
+                "unique_id": "pedometer_avg_active_pace",
+                "unit_of_measurement": "m/s",
+                "attributes": {},
+                "webhook_id": "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294",
+                "added": true
+            },
+            "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294_battery_level": {
+                "attributes": {
+                    "Battery State": "Not Charging",
+                    "Low Power Mode": false
+                },
+                "device_class": "battery",
+                "icon": "mdi:battery-80",
+                "name": "Battery Level",
+                "state": 84,
+                "type": "sensor",
+                "unique_id": "battery_level",
+                "unit_of_measurement": "%",
+                "webhook_id": "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294",
+                "added": true
+            },
+            "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294_battery_state": {
+                "attributes": {
+                    "Battery Level": 84,
+                    "Low Power Mode": false
+                },
+                "device_class": "battery",
+                "icon": "mdi:battery-80",
+                "name": "Battery State",
+                "state": "Not Charging",
+                "type": "sensor",
+                "unique_id": "battery_state",
+                "webhook_id": "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294",
+                "added": true
+            },
+            "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294_storage": {
+                "attributes": {
+                    "Available": "55.66 GB",
+                    "Available (Important)": "83.33 GB",
+                    "Available (Opportunistic)": "82.05 GB",
+                    "Total": "127.88 GB"
+                },
+                "icon": "mdi:database",
+                "name": "Storage",
+                "state": "64.16",
+                "type": "sensor",
+                "unique_id": "storage",
+                "unit_of_measurement": "% available",
+                "webhook_id": "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294",
+                "added": true
+            },
+            "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294_connectivity_ssid": {
+                "icon": "mdi:wifi-off",
+                "name": "SSID",
+                "state": "Not Connected",
+                "type": "sensor",
+                "unique_id": "connectivity_ssid",
+                "attributes": {},
+                "webhook_id": "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294",
+                "added": true
+            },
+            "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294_connectivity_bssid": {
+                "icon": "mdi:wifi-off",
+                "name": "BSSID",
+                "state": "Not Connected",
+                "type": "sensor",
+                "unique_id": "connectivity_bssid",
+                "attributes": {},
+                "webhook_id": "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294",
+                "added": true
+            },
+            "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294_connectivity_connection_type": {
+                "icon": "mdi:wifi",
+                "name": "Connection Type",
+                "state": "Wi-Fi",
+                "type": "sensor",
+                "unique_id": "connectivity_connection_type",
+                "attributes": {},
+                "webhook_id": "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294",
+                "added": true
+            },
+            "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294_connectivity_sim_1": {
+                "attributes": {
+                    "Allows VoIP": true,
+                    "Carrier ID": "0000000100000001",
+                    "Carrier Name": "Verizon",
+                    "Current Radio Technology": "Long-Term Evolution (LTE)",
+                    "ISO Country Code": "us",
+                    "Mobile Country Code": "311",
+                    "Mobile Network Code": "480"
+                },
+                "icon": "mdi:sim",
+                "name": "SIM 1",
+                "state": "Verizon",
+                "type": "sensor",
+                "unique_id": "connectivity_sim_1",
+                "webhook_id": "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294",
+                "added": true
+            },
+            "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294_connectivity_sim_2": {
+                "attributes": {
+                    "Allows VoIP": true,
+                    "Carrier ID": "0000000100000002",
+                    "Carrier Name": "N/A",
+                    "ISO Country Code": "N/A",
+                    "Mobile Country Code": "N/A",
+                    "Mobile Network Code": "N/A"
+                },
+                "icon": "mdi:sim",
+                "name": "SIM 2",
+                "state": "N/A",
+                "type": "sensor",
+                "unique_id": "connectivity_sim_2",
+                "webhook_id": "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294",
+                "added": true
+            },
+            "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294_geocoded_location": {
+                "icon": "mdi:map",
+                "name": "Geocoded Location",
+                "state": "17 Blanchard Rd\nGray ME 04039\nUnited States",
+                "type": "sensor",
+                "unique_id": "geocoded_location",
+                "attributes": {
+                    "Administrative Area": "ME",
+                    "Areas Of Interest": "N/A",
+                    "Country": "United States",
+                    "Inland Water": "N/A",
+                    "ISO Country Code": "US",
+                    "Locality": "Gray",
+                    "Location": [
+                        43.838958740234375,
+                        -70.32776562751604
+                    ],
+                    "Name": "17 Blanchard Rd",
+                    "Ocean": "N/A",
+                    "Postal Code": "04039",
+                    "Sub Administrative Area": "Cumberland",
+                    "Sub Locality": "N/A",
+                    "Sub Thoroughfare": "17",
+                    "Thoroughfare": "Blanchard Rd",
+                    "Time Zone": "America/New_York",
+                    "Zones": []
+                },
+                "webhook_id": "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294",
+                "added": true
+            },
+            "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294_last_update_trigger": {
+                "icon": "mdi:cellphone-wireless",
+                "name": "Last Update Trigger",
+                "state": "Background Fetch",
+                "type": "sensor",
+                "unique_id": "last_update_trigger",
+                "attributes": {},
+                "webhook_id": "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294",
+                "added": true
+            }
+        }
+    }
+}

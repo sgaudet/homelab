@@ -1,0 +1,12 @@
+version: '3.3'
+services:
+    nessus:
+        container_name: nessus
+        ports:
+            - '8834:8834'
+        environment:
+            - ACTIVATION_CODE=<activation
+            - USERNAME=admin
+            - PASSWORD=P455w0rd!1
+            - AUTO_UPDATE=all
+        image: tenableofficial/nessus

@@ -1,0 +1,21 @@
+
+# Configure a default setup of Home Assistant (frontend, api, etc)
+default_config:
+
+homeassistant:
+  name: Home
+  latitude: 43.838986
+  longitude: -70.327889
+  unit_system: imperial
+  time_zone: "America/New_York"
+  external_url: "https://ha.sgaudet.com"
+  internal_url: "http://10.0.0.10:8123"
+
+# Text to speech
+tts:
+  - platform: google_translate
+
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml

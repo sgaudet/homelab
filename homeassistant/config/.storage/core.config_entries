@@ -1,0 +1,214 @@
+{
+    "version": 1,
+    "minor_version": 1,
+    "key": "core.config_entries",
+    "data": {
+        "entries": [
+            {
+                "entry_id": "7d8fbd833c1f21fe77d1b861a1892108",
+                "version": 1,
+                "domain": "met",
+                "title": "Home",
+                "data": {
+                    "track_home": true
+                },
+                "options": {},
+                "pref_disable_new_entities": false,
+                "pref_disable_polling": false,
+                "source": "onboarding",
+                "unique_id": null,
+                "disabled_by": null
+            },
+            {
+                "entry_id": "0ab0a1bde9bbfea521aa73bd4e20354c",
+                "version": 1,
+                "domain": "mobile_app",
+                "title": "Sam\u2019s iPhone",
+                "data": {
+                    "model": "iPhone13,3",
+                    "app_version": "2021.5 (2021.150)",
+                    "device_name": "Sam\u2019s iPhone",
+                    "app_id": "io.robbie.HomeAssistant",
+                    "os_name": "iOS",
+                    "os_version": "14.5.1",
+                    "supports_encryption": true,
+                    "app_name": "Home Assistant",
+                    "device_id": "90917CD8-4EE0-48BD-B98D-C0C8AA378F10",
+                    "manufacturer": "Apple",
+                    "app_data": {
+                        "push_token": "etjyLrkGF0oak2Y56s51PZ:APA91bGgIem7F_oO6LxGvc8gDf4OrxEiwrCFgkkI6Xue34T6QDUroG7sHHlPmA6qgJLNSWUmDPRQMknZNpa_YcOAQ8sr2Ot22LEVT_e0DFPwVjsJL1NWBWt0wASfJQnsRGG-t-QvMZla",
+                        "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
+                    },
+                    "webhook_id": "25c89db053adb46511f8d12bf651c78ae19c3e6e988b58141976b2c306765294",
+                    "secret": "ed15895a7806c984471979960dfc8b4f8fc6352bcd545b3afb2b5fcb29c14595",
+                    "user_id": "3568307bdb7f4eed91538acf9854a47f"
+                },
+                "options": {},
+                "pref_disable_new_entities": false,
+                "pref_disable_polling": false,
+                "source": "registration",
+                "unique_id": "io.robbie.HomeAssistant-90917CD8-4EE0-48BD-B98D-C0C8AA378F10",
+                "disabled_by": null
+            },
+            {
+                "entry_id": "2b742ea0d3822eda82f9a020b19b3f7f",
+                "version": 1,
+                "domain": "cast",
+                "title": "Google Cast",
+                "data": {
+                    "user_id": "a70e96ad4e1a4930bb907ef1cb8064e5"
+                },
+                "options": {},
+                "pref_disable_new_entities": false,
+                "pref_disable_polling": false,
+                "source": "zeroconf",
+                "unique_id": "cast",
+                "disabled_by": null
+            },
+            {
+                "entry_id": "f1e5a02528ed82d1297eeeb9fca9c08a",
+                "version": 1,
+                "domain": "roku",
+                "title": "Living Room TV",
+                "data": {
+                    "host": "10.0.0.101",
+                    "name": "Living Room TV"
+                },
+                "options": {},
+                "pref_disable_new_entities": false,
+                "pref_disable_polling": false,
+                "source": "ssdp",
+                "unique_id": "YN001H634141",
+                "disabled_by": null
+            },
+            {
+                "entry_id": "c3615d02acd2194782ac221dc8007c5e",
+                "version": 1,
+                "domain": "heos",
+                "title": "Controller (10.0.0.126)",
+                "data": {
+                    "host": "10.0.0.126"
+                },
+                "options": {},
+                "pref_disable_new_entities": false,
+                "pref_disable_polling": false,
+                "source": "ssdp",
+                "unique_id": "heos",
+                "disabled_by": null
+            },
+            {
+                "entry_id": "1c886e7acdcc7241f3ac58b6e1a32f86",
+                "version": 1,
+                "domain": "denonavr",
+                "title": "Receiver",
+                "data": {
+                    "host": "10.0.0.126",
+                    "mac": "00:05:cd:dc:de:3e",
+                    "type": "avr-x-2016",
+                    "model": "Denon AVR-S650H",
+                    "manufacturer": "Denon",
+                    "serial_number": "BJJ27190303445"
+                },
+                "options": {},
+                "pref_disable_new_entities": false,
+                "pref_disable_polling": false,
+                "source": "ssdp",
+                "unique_id": "Denon AVR-S650H-BJJ27190303445",
+                "disabled_by": null
+            },
+            {
+                "entry_id": "8d9573bcac9f4b64e926f968a36a7773",
+                "version": 1,
+                "domain": "hue",
+                "title": "Philips hue",
+                "data": {
+                    "host": "10.0.0.144",
+                    "api_key": "IAwd78w9BWnjSHMsyZE7NEdXELLq72IeXaOMmS54",
+                    "api_version": 2
+                },
+                "options": {},
+                "pref_disable_new_entities": false,
+                "pref_disable_polling": false,
+                "source": "user",
+                "unique_id": "0017887cb8f7",
+                "disabled_by": null
+            },
+            {
+                "entry_id": "e8b439c1f7405725dbd8852905098a0b",
+                "version": 1,
+                "domain": "ipp",
+                "title": "Brother HL-L2390DW",
+                "data": {
+                    "host": "10.0.0.135",
+                    "port": 631,
+                    "ssl": false,
+                    "verify_ssl": false,
+                    "base_path": "/ipp/print",
+                    "name": "Brother HL-L2390DW",
+                    "uuid": "e3248000-80ce-11db-8000-405bd8eac406"
+                },
+                "options": {},
+                "pref_disable_new_entities": false,
+                "pref_disable_polling": false,
+                "source": "zeroconf",
+                "unique_id": "e3248000-80ce-11db-8000-405bd8eac406",
+                "disabled_by": null
+            },
+            {
+                "entry_id": "ed3791ef9b417e6c3d99cf545b14f85d",
+                "version": 1,
+                "domain": "xbox",
+                "title": "Home Assistant Cloud",
+                "data": {
+                    "auth_implementation": "cloud",
+                    "token": {
+                        "token_type": "bearer",
+                        "expires_in": 3600,
+                        "scope": "XboxLive.signin XboxLive.offline_access",
+                        "access_token": "EwAoA+pvBAAUKods63Ys1fGlwiccIFJ+qE1hANsAAdmXyrX0wJAv2kELZH0X6ITKhnteRN+eK+3ehVsMZNsmwXJ70yrVZGKy0SaK3pIliVWsXvtTVOC+KNxEZ9uipGeACRhzFDphoO5Hig5kGuC0QPDvo/6yH3sHx6tS1NTcIEg30dhDsWV9j3BkazGRiPNUxQFO44PSZqHoYADVTeOpoF4y4l5I3cA51CFQ3GJpQfej+tY3fjmzOUw9q7YN+8stqP6f06PYwgAZMaRllB04vOXUOmQ94psLin6zuWdiHdFUlvsd1YoQVEiexxxLZqmBGwKujLcYFoPwvCarMvakfQ2RiX9TQMP6EfxRLVDXRIKP+Qi8tammIxxVZwoPZy0DZgAACESOktMGF+C7+AHjNlCQl2R1ma0Bu3bjUyANlniVXyn7Tt349Eo4jBvfBGhFxac4xHLQCsXJSG43+Oci9XdoB/N54q1DkZuPdzO8LxM7QBzn6aaKwRCBt9cpLzqvlWEzblExJaaa4X+DQJMTqpjV7BlqnhD+GEGo3p4KM0cgLm0dtgf+6ADA/QiLGfJyqoJz+WlMqeQu50OEPjk7eYhmcbc7FGvL1+MClBjavEzSANIbUA5uLIoW9pMemnd9eXeYNWk/7tAOrwwYIFXcX2lN/hs31XYcMLil6akgESiLdNFa8qnSnVv9N1Ww6oY858k1mkLq6rRNqMMexxDh0IP/5ksRzfrXBIp0orRkuzo0A1TgjDEzza75iAfZXY/WkwaDBBbV3qLGERxbRuCg3dIeE8m3VlCihy1UfF6RRmyEwvIHIJaw0sW76vaTVVExOZONz/ox+p55rGCzYxu5s1kNi8ZvKrNweYd1xs141wEYuZO9f0/ZHsJ3eGsx2B35RYt48NaYdszwK1zTn4+STe1JTCiWhzTq2jFo2MfO9Ku23h2QL1w2fHEoGwClAVe8cZuRk8F7tyE8OD/XN0Q6sRXfATzALjiis30tBFp948liVWm3S98PKeil6sg8/wCupDqYnHgKTY/rhL8pOGzq251CpsZzEQ0KZ1miGcd5toR8EXud+CEZAg==",
+                        "refresh_token": "M.R3_BL2.-CYHSe4gnKK9p1AgnfqI5EUMXm4mJMIaTpoQ8kol6Qb34KHjaejX5wJiVKPripH4rbVXO8WspaV7rItV8DP6r1g3vIwjAGtPD8JLslafn4RF7rcE1sFzvP8S6Y9nUIaL9wlu8L4*5Oq4pta4qNbovgG!rveeL8egafriiHiGFMVhpU4iuHiJmEwJPTfEbmTj2ZFPHyuhWQ26suhU3KwZkzlvElVFWk60PkNismqB5wjqHsFE7PCbBa*XXD6mr!BriGZ1ErY3MrBQsShqqVTlqMEI5e48JxVWa6xN0*2Ri!5WDpMlQGZxxt*Cf7jgCnyiAcg$$",
+                        "user_id": "AAAAAAAAAAAAAAAAAAAAAKbk-vkfUjzEQUgRJGA4h2w",
+                        "service": "xbox",
+                        "expires_at": 1650365515.3115144
+                    }
+                },
+                "options": {},
+                "pref_disable_new_entities": false,
+                "pref_disable_polling": false,
+                "source": "user",
+                "unique_id": "xbox",
+                "disabled_by": null
+            },
+            {
+                "entry_id": "41c39c2f099e37ae2245485489fe75fa",
+                "version": 1,
+                "domain": "mobile_app",
+                "title": "Pixel 3",
+                "data": {
+                    "app_id": "io.homeassistant.companion.android",
+                    "app_name": "Home Assistant",
+                    "app_version": "2021.4.1-full (658)",
+                    "device_name": "Pixel 3",
+                    "manufacturer": "Google",
+                    "model": "Pixel 3",
+                    "os_name": "Android",
+                    "os_version": "30",
+                    "supports_encryption": false,
+                    "app_data": {
+                        "push_url": "https://mobile-apps.home-assistant.io/api/sendPush/android/v1",
+                        "push_token": "fbq6JOASQji0i0P1vtImrt:APA91bFYXjZSrRoUWTzIWo_nH74lQdU__NR3638Pq--YqZdcQhrFFTXt1CXs5fZrmORsC8iJgT0gs1OKpFlwzdRCDhIQYowy6tecTUQbtJpwV7c-qzKbwcpqS2Uf09LqGgqDD5nrlwMD"
+                    },
+                    "device_id": "994f9fd5102ea1d3",
+                    "webhook_id": "bcd361c1709b943cb53bb3f5cad565644c900379a3c5f423ac98da93edacea07",
+                    "user_id": "3568307bdb7f4eed91538acf9854a47f"
+                },
+                "options": {},
+                "pref_disable_new_entities": false,
+                "pref_disable_polling": false,
+                "source": "registration",
+                "unique_id": "io.homeassistant.companion.android-994f9fd5102ea1d3",
+                "disabled_by": null
+            }
+        ]
+    }
+}

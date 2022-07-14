@@ -1,0 +1,53 @@
+2022-04-19 08:06:25 WARNING (Recorder) [homeassistant.components.recorder.util] The system could not validate that the sqlite3 database at //config/home-assistant_v2.db was shutdown cleanly
+2022-04-19 08:06:26 WARNING (Recorder) [homeassistant.components.recorder.util] Ended unfinished session (id=47 from 2022-04-19 10:38:26.403561)
+2022-04-19 08:06:33 WARNING (MainThread) [homeassistant.components.ssdp] Failed to setup listener for 0.0.0.0: [Errno 98] Address in use
+2022-04-19 08:06:34 ERROR (MainThread) [homeassistant.components.updater] Error requesting Home Assistant update data: Cannot connect to host www.home-assistant.io:443 ssl:default [Try again]
+2022-04-19 08:06:34 ERROR (MainThread) [metno] Access to https://aa015h6buqvih86i1.api.met.no/weatherapi/locationforecast/2.0/complete returned error 'ClientConnectorError'
+2022-04-19 08:06:35 ERROR (MainThread) [homeassistant.config_entries] Error setting up entry Home Assistant Cloud for xbox
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/config_entries.py", line 313, in async_setup
+    result = await component.async_setup_entry(hass, self)  # type: ignore
+  File "/usr/src/homeassistant/homeassistant/components/xbox/__init__.py", line 79, in async_setup_entry
+    await config_entry_oauth2_flow.async_get_config_entry_implementation(
+  File "/usr/src/homeassistant/homeassistant/helpers/config_entry_oauth2_flow.py", line 373, in async_get_config_entry_implementation
+    raise ValueError("Implementation not available")
+ValueError: Implementation not available
+2022-04-19 08:06:36 ERROR (MainThread) [homeassistant.helpers.integration_platform] Error processing platform xbox.media_source
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/helpers/integration_platform.py", line 44, in _process
+    await process_platform(hass, component_name, platform)
+  File "/usr/src/homeassistant/homeassistant/components/media_source/__init__.py", line 61, in _process_media_source_platform
+    hass.data[DOMAIN][domain] = await platform.async_get_media_source(hass)
+  File "/usr/src/homeassistant/homeassistant/components/xbox/media_source.py", line 46, in async_get_media_source
+    client = hass.data[DOMAIN][entry.entry_id]["client"]
+KeyError: 'ed3791ef9b417e6c3d99cf545b14f85d'
+2022-04-19 08:06:36 WARNING (MainThread) [homeassistant.config_entries] Config entry 'Brother HL-L2390DW' for ipp integration not ready yet: Invalid response from API: Error occurred while communicating with IPP server.; Retrying in background
+2022-04-19 08:06:36 WARNING (MainThread) [homeassistant.config_entries] Config entry 'Controller (10.0.0.126)' for heos integration not ready yet: [Errno 113] Connect call failed ('10.0.0.126', 1255); Retrying in background
+2022-04-19 08:06:36 WARNING (MainThread) [homeassistant.config_entries] Config entry 'Living Room TV' for roku integration not ready yet: Invalid response from API: Error occurred while communicating with device; Retrying in background
+2022-04-19 08:06:36 WARNING (MainThread) [homeassistant.config_entries] Config entry 'Philips hue' for hue integration not ready yet: Error connecting to the Hue bridge at 10.0.0.144; Retrying in background
+2022-04-19 08:06:39 WARNING (MainThread) [homeassistant.config_entries] Config entry 'Receiver' for denonavr integration not ready yet: NetworkError: All connection attempts failed; Retrying in background
+2022-04-19 08:07:27 WARNING (SyncWorker_2) [pychromecast.dial] Failed to determine cast type
+2022-04-19 08:07:27 WARNING (SyncWorker_0) [pychromecast.dial] Failed to determine cast type
+2022-04-19 08:07:27 ERROR (Thread-5) [pychromecast.socket_client] [Basement Display(fuchsia-1cf2-9a30-48b6.local.):8009] Failed to connect to service ServiceInfo(type='mdns', data='google-nest-hub-3627054e63ef91e3b42aa9a52abfda0e._googlecast._tcp.local.'), retrying in 5.0s
+2022-04-19 08:07:27 ERROR (Thread-6) [pychromecast.socket_client] [Kitchen Display(fuchsia-1cf2-9a58-e01e.local.):8009] Failed to connect to service ServiceInfo(type='mdns', data='google-nest-hub-37ed1af0398d665fcbe52af97ce33325._googlecast._tcp.local.'), retrying in 5.0s
+2022-04-19 08:07:56 WARNING (MainThread) [aiohue.util] Value {} of type <class 'dict'> is invalid for Device.identify, expected value of type typing.Optional[aiohue.v2.models.feature.IdentifyFeature]
+2022-04-19 08:07:56 WARNING (MainThread) [aiohue.util] Value {} of type <class 'dict'> is invalid for Device.identify, expected value of type typing.Optional[aiohue.v2.models.feature.IdentifyFeature]
+2022-04-19 08:07:56 WARNING (MainThread) [aiohue.util] Value {} of type <class 'dict'> is invalid for Device.identify, expected value of type typing.Optional[aiohue.v2.models.feature.IdentifyFeature]
+2022-04-19 08:07:56 WARNING (MainThread) [aiohue.util] Value {} of type <class 'dict'> is invalid for Device.identify, expected value of type typing.Optional[aiohue.v2.models.feature.IdentifyFeature]
+2022-04-19 08:07:56 WARNING (MainThread) [aiohue.util] Value {} of type <class 'dict'> is invalid for Device.identify, expected value of type typing.Optional[aiohue.v2.models.feature.IdentifyFeature]
+2022-04-19 08:07:56 WARNING (MainThread) [aiohue.util] Value {} of type <class 'dict'> is invalid for Device.identify, expected value of type typing.Optional[aiohue.v2.models.feature.IdentifyFeature]
+2022-04-19 08:07:56 WARNING (MainThread) [aiohue.util] Value {} of type <class 'dict'> is invalid for Device.identify, expected value of type typing.Optional[aiohue.v2.models.feature.IdentifyFeature]
+2022-04-19 08:07:56 WARNING (MainThread) [aiohue.util] Value {} of type <class 'dict'> is invalid for Device.identify, expected value of type typing.Optional[aiohue.v2.models.feature.IdentifyFeature]
+2022-04-19 08:07:56 WARNING (MainThread) [aiohue.util] Value {} of type <class 'dict'> is invalid for Device.identify, expected value of type typing.Optional[aiohue.v2.models.feature.IdentifyFeature]
+2022-04-19 08:07:56 WARNING (MainThread) [aiohue.util] Value {} of type <class 'dict'> is invalid for Device.identify, expected value of type typing.Optional[aiohue.v2.models.feature.IdentifyFeature]
+2022-04-19 08:07:56 WARNING (MainThread) [aiohue.util] Value {} of type <class 'dict'> is invalid for Device.identify, expected value of type typing.Optional[aiohue.v2.models.feature.IdentifyFeature]
+2022-04-19 08:08:00 WARNING (MainThread) [homeassistant.components.heos] 10.0.0.126 is not logged in to a HEOS account and will be unable to retrieve HEOS favorites: Use the 'heos.sign_in' service to sign-in to a HEOS account
+2022-04-19 08:11:02 ERROR (Thread-7) [pychromecast.socket_client] [Basement TV(10.0.0.103):8009] Failed to connect to service ServiceInfo(type='mdns', data='BRAVIA-4K-GB-ATV3-47904cea218cda01974cee60fd6ee10f._googlecast._tcp.local.'), retrying in 5.0s
+2022-04-19 08:15:08 WARNING (Thread-7) [pychromecast.socket_client] [Basement TV(10.0.0.103):8009] Heartbeat timeout, resetting connection
+2022-04-19 08:15:38 ERROR (Thread-7) [pychromecast.socket_client] [Basement TV(10.0.0.103):8009] Failed to connect to service ServiceInfo(type='mdns', data='BRAVIA-4K-GB-ATV3-47904cea218cda01974cee60fd6ee10f._googlecast._tcp.local.'), retrying in 5.0s
+2022-04-19 08:17:16 WARNING (Thread-7) [pychromecast.socket_client] [Basement TV(10.0.0.103):8009] Heartbeat timeout, resetting connection
+2022-04-19 08:17:46 ERROR (Thread-7) [pychromecast.socket_client] [Basement TV(10.0.0.103):8009] Failed to connect to service ServiceInfo(type='mdns', data='BRAVIA-4K-GB-ATV3-47904cea218cda01974cee60fd6ee10f._googlecast._tcp.local.'), retrying in 5.0s
+2022-04-19 09:25:58 WARNING (Thread-7) [pychromecast.socket_client] [Basement TV(10.0.0.103):8009] Heartbeat timeout, resetting connection
+2022-04-19 09:26:28 ERROR (Thread-7) [pychromecast.socket_client] [Basement TV(10.0.0.103):8009] Failed to connect to service ServiceInfo(type='mdns', data='BRAVIA-4K-GB-ATV3-47904cea218cda01974cee60fd6ee10f._googlecast._tcp.local.'), retrying in 5.0s
+2022-04-19 10:15:39 WARNING (Thread-7) [pychromecast.socket_client] [Basement TV(10.0.0.103):8009] Heartbeat timeout, resetting connection
+2022-04-19 10:16:09 ERROR (Thread-7) [pychromecast.socket_client] [Basement TV(10.0.0.103):8009] Failed to connect to service ServiceInfo(type='mdns', data='BRAVIA-4K-GB-ATV3-47904cea218cda01974cee60fd6ee10f._googlecast._tcp.local.'), retrying in 5.0s

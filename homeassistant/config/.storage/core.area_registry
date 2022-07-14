@@ -1,0 +1,48 @@
+{
+    "version": 1,
+    "key": "core.area_registry",
+    "data": {
+        "areas": [
+            {
+                "name": "Living Room",
+                "id": "living_room"
+            },
+            {
+                "name": "Kitchen",
+                "id": "kitchen"
+            },
+            {
+                "name": "Bedroom",
+                "id": "bedroom"
+            },
+            {
+                "name": "Mason's Room",
+                "id": "mason_s_room"
+            },
+            {
+                "name": "Guest Bedroom",
+                "id": "guest_bedroom"
+            },
+            {
+                "name": "Basement",
+                "id": "basement"
+            },
+            {
+                "name": "Outdoor",
+                "id": "outdoor"
+            },
+            {
+                "name": "Upstairs Hallway",
+                "id": "upstairs_hallway"
+            },
+            {
+                "name": "Downstairs Hallway",
+                "id": "downstairs_hallway"
+            },
+            {
+                "name": "Dining Room",
+                "id": "dining_room"
+            }
+        ]
+    }
+}

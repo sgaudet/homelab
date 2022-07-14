@@ -1,0 +1,14 @@
+[
+   {
+      "ignoresPlayerLimit" : true,
+      "name" : "the null device",
+      "permission" : "operator",
+      "xuid" : "2533274794377883"
+   },
+   {
+      "ignoresPlayerLimit" : true,
+      "name" : "velociraptorgx",
+      "permission" : "operator",
+      "xuid" : "2535419434575274"
+   }
+]

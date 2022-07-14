@@ -1,0 +1,6 @@
+.DS Store
+unifi/config/data/db/journal/WiredTigerLog*
+minecraft/data/bedrock_server_symbols.debug
+minecraft/data/bedrock_server*
+wordpress-mason/data/db/ibdata1
+pihole/etc-pihole/pihole-FTL.db

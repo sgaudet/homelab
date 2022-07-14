@@ -1,0 +1,17 @@
+{
+    "version": 2,
+    "key": "person",
+    "data": {
+        "items": [
+            {
+                "name": "Sam Gaudet",
+                "user_id": "3568307bdb7f4eed91538acf9854a47f",
+                "device_trackers": [
+                    "device_tracker.sams_iphone",
+                    "device_tracker.pixel_3"
+                ],
+                "id": "sam_gaudet"
+            }
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+10.0.0.20 tanium.lab.sgaudet.com
+10.0.0.11 ansible.lab.sgaudet.com
+10.0.0.10 docker.lab.sgaudet.com
+10.0.0.70 nessus.lab.sgaudet.com
+10.0.0.100 desktop.lab.sgaudet.com
+10.0.0.5 esxi.lab.sgaudet.com
+10.0.0.81 dom.lab.sgaudet.com
+10.0.0.5 winserver.lab.sgaudet.com
+10.0.0.6 vcenter.lab.sgaudet.com
+10.0.0.175 win11-dev.lab.sgaudet.com
+10.0.0.50 ha.lab.sgaudet.com

@@ -1,0 +1,17 @@
+# by default, the Ghost image will use SQLite (and thus requires no separate database container)
+# we have used MySQL here merely for demonstration purposes (especially environment-variable-based configuration)
+
+version: '3.1'
+
+services:
+
+  ghost:
+    image: ghost:latest
+    restart: always
+    ports:
+      - 3001:2368
+    environment:
+      url: http://sgaudet.com
+      #NODE_ENV: development
+    volumes:
+      - ./data:/var/lib/ghost/content

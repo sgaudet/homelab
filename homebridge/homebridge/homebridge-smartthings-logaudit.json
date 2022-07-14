@@ -1,0 +1,34 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 5
+    },
+    "auditLog": "/homebridge/homebridge-smartthings-logaudit.json",
+    "files": [
+        {
+            "date": 1657339237796,
+            "name": "/homebridge/homebridge-smartthings-2022-07-09.log",
+            "hash": "7d62ff45571d989408d71446840ae005"
+        },
+        {
+            "date": 1657425997926,
+            "name": "/homebridge/homebridge-smartthings-2022-07-10.log",
+            "hash": "cc74256c2d9d5118674184745aaac852"
+        },
+        {
+            "date": 1657512540665,
+            "name": "/homebridge/homebridge-smartthings-2022-07-11.log",
+            "hash": "5a6aee93d19ddd641a0010e3c93c238d"
+        },
+        {
+            "date": 1657598586075,
+            "name": "/homebridge/homebridge-smartthings-2022-07-12.log",
+            "hash": "89f85579c7688f3a6d415292c3898d64"
+        },
+        {
+            "date": 1657685026755,
+            "name": "/homebridge/homebridge-smartthings-2022-07-13.log",
+            "hash": "2fed6a5bf99b814069d84a67551b69a3"
+        }
+    ]
+}

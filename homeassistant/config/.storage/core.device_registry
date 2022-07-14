@@ -1,0 +1,770 @@
+{
+    "version": 1,
+    "minor_version": 2,
+    "key": "core.device_registry",
+    "data": {
+        "devices": [
+            {
+                "config_entries": [
+                    "7d8fbd833c1f21fe77d1b861a1892108"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "met"
+                    ]
+                ],
+                "manufacturer": "Met.no",
+                "model": "Forecast",
+                "name": "Forecast",
+                "sw_version": null,
+                "entry_type": "service",
+                "id": "64b2e8e485f212bae55a135eb2bfd010",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": "https://www.met.no/en"
+            },
+            {
+                "config_entries": [
+                    "0ab0a1bde9bbfea521aa73bd4e20354c"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "mobile_app",
+                        "90917CD8-4EE0-48BD-B98D-C0C8AA378F10"
+                    ]
+                ],
+                "manufacturer": "Apple",
+                "model": "iPhone13,3",
+                "name": "Sam\u2019s iPhone",
+                "sw_version": "14.5.1",
+                "entry_type": null,
+                "id": "697f5eb0ff71467139df96b212ba16d7",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "2b742ea0d3822eda82f9a020b19b3f7f"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "cast",
+                        "37ed1af0398d665fcbe52af97ce33325"
+                    ]
+                ],
+                "manufacturer": "None",
+                "model": "Google Nest Hub",
+                "name": "Kitchen Display",
+                "sw_version": null,
+                "entry_type": null,
+                "id": "8d0445e1f980a48ae10147cbcf133f14",
+                "via_device_id": null,
+                "area_id": "kitchen",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "2b742ea0d3822eda82f9a020b19b3f7f"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "cast",
+                        "cbfb2344db3e5da28b2f4d89220abeb8"
+                    ]
+                ],
+                "manufacturer": "None",
+                "model": "Google Home",
+                "name": "Mason\u2019s Room Speaker",
+                "sw_version": null,
+                "entry_type": null,
+                "id": "cd72ac6b1d1e0b8db4db68074005a9db",
+                "via_device_id": null,
+                "area_id": "",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "2b742ea0d3822eda82f9a020b19b3f7f"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "cast",
+                        "596206c0d0f96335fb3fb667e0710f08"
+                    ]
+                ],
+                "manufacturer": "None",
+                "model": "Google Home Mini",
+                "name": "Bedroom Speaker",
+                "sw_version": null,
+                "entry_type": null,
+                "id": "0d5cfe3e4ad60ef8699b2a9c9cfee2aa",
+                "via_device_id": null,
+                "area_id": "bedroom",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "2b742ea0d3822eda82f9a020b19b3f7f"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "cast",
+                        "3ed6db046bfc302ab3ba4daecb682fc9"
+                    ]
+                ],
+                "manufacturer": "None",
+                "model": "Google Home Max",
+                "name": "Living Room speaker",
+                "sw_version": null,
+                "entry_type": null,
+                "id": "c3abf1797c07b4e2089ad22d10cfe5ea",
+                "via_device_id": null,
+                "area_id": "living_room",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "2b742ea0d3822eda82f9a020b19b3f7f"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "cast",
+                        "3c83a1e6681d2e6527635668e403b94d"
+                    ]
+                ],
+                "manufacturer": "None",
+                "model": "Google Home Mini",
+                "name": "Guest Bedroom Speaker",
+                "sw_version": null,
+                "entry_type": null,
+                "id": "bc8493c006b937763713c61de6ca4673",
+                "via_device_id": null,
+                "area_id": "",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "f1e5a02528ed82d1297eeeb9fca9c08a"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "roku",
+                        "YN001H634141"
+                    ]
+                ],
+                "manufacturer": "Sharp",
+                "model": "LC-55LBU591U",
+                "name": "Living Room TV",
+                "sw_version": "10.5.0",
+                "entry_type": null,
+                "id": "a5405e4a0a4532d5692ee1de789fe00b",
+                "via_device_id": null,
+                "area_id": "living_room",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "c3615d02acd2194782ac221dc8007c5e"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "heos",
+                        -668258629
+                    ]
+                ],
+                "manufacturer": "HEOS",
+                "model": "Denon AVR-S650H",
+                "name": "Receiver",
+                "sw_version": "2.47.190",
+                "entry_type": null,
+                "id": "f8e9486492c893af41d4032b061a786f",
+                "via_device_id": null,
+                "area_id": "basement",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "1c886e7acdcc7241f3ac58b6e1a32f86"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:05:cd:dc:de:3e"
+                    ]
+                ],
+                "identifiers": [
+                    [
+                        "denonavr",
+                        "Denon AVR-S650H-BJJ27190303445"
+                    ]
+                ],
+                "manufacturer": "Denon",
+                "model": "Denon AVR-S650H-avr-x-2016",
+                "name": "Receiver",
+                "sw_version": null,
+                "entry_type": null,
+                "id": "643e6f765501672f2d8cf39430187dba",
+                "via_device_id": null,
+                "area_id": "basement",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": "http://10.0.0.126/"
+            },
+            {
+                "config_entries": [
+                    "2b742ea0d3822eda82f9a020b19b3f7f"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "cast",
+                        "47904cea218cda01974cee60fd6ee10f"
+                    ]
+                ],
+                "manufacturer": "None",
+                "model": "BRAVIA 4K GB ATV3",
+                "name": "Basement TV",
+                "sw_version": null,
+                "entry_type": null,
+                "id": "8b35e7ce0a15376009e30d21f4a0f9ed",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "8d9573bcac9f4b64e926f968a36a7773"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:17:88:7c:b8:f7"
+                    ],
+                    [
+                        "mac",
+                        "00:17:88:01:01:cc:b8:f7"
+                    ]
+                ],
+                "identifiers": [
+                    [
+                        "hue",
+                        "001788fffe7cb8f7"
+                    ],
+                    [
+                        "hue",
+                        "cf443f14-f3cc-4737-a609-7738971ddaf9"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Philips hue (BSB002)",
+                "name": "Philips hue",
+                "sw_version": "1.50.1950207110",
+                "entry_type": null,
+                "id": "060b2f3955640f99ecce8fc11240ba59",
+                "via_device_id": null,
+                "area_id": "basement",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "8d9573bcac9f4b64e926f968a36a7773"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:17:88:01:03:db:59:55"
+                    ]
+                ],
+                "identifiers": [
+                    [
+                        "hue",
+                        "f0d2290b-875f-4804-ac67-5560b1c9da09"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue color lamp (LCT016)",
+                "name": "Lamp",
+                "sw_version": "1.88.1",
+                "entry_type": null,
+                "id": "d93f9c773d5cebe16bcc1ceeabf9905b",
+                "via_device_id": "060b2f3955640f99ecce8fc11240ba59",
+                "area_id": "mason_s_room",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "8d9573bcac9f4b64e926f968a36a7773"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:17:88:01:08:80:2b:e1"
+                    ]
+                ],
+                "identifiers": [
+                    [
+                        "hue",
+                        "d2656dc8-c0c7-4eb5-90e2-78584a2d74eb"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue color Lamp (LCA003)",
+                "name": "Lamp",
+                "sw_version": "1.93.11",
+                "entry_type": null,
+                "id": "90c5a70a4d4525e2103a6ec882d11879",
+                "via_device_id": "060b2f3955640f99ecce8fc11240ba59",
+                "area_id": "bedroom",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "8d9573bcac9f4b64e926f968a36a7773"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:17:88:01:02:bf:3a:03"
+                    ]
+                ],
+                "identifiers": [
+                    [
+                        "hue",
+                        "e86c7da4-9ca2-4378-9e48-e9f7517e00bb"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue white lamp (LWB014)",
+                "name": "Standing Lamp",
+                "sw_version": "1.88.1",
+                "entry_type": null,
+                "id": "7a131a8312c3e220e00f0d4d6d450f5a",
+                "via_device_id": "060b2f3955640f99ecce8fc11240ba59",
+                "area_id": "living_room",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "8d9573bcac9f4b64e926f968a36a7773"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:17:88:01:02:bf:35:2e"
+                    ]
+                ],
+                "identifiers": [
+                    [
+                        "hue",
+                        "72e07620-5a0f-4e3a-87a3-6d40550f4224"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue white lamp (LWB014)",
+                "name": "Lamp",
+                "sw_version": "1.88.1",
+                "entry_type": null,
+                "id": "5152a8bb0edbfe21c7ce181b5b5f60c8",
+                "via_device_id": "060b2f3955640f99ecce8fc11240ba59",
+                "area_id": "basement",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "8d9573bcac9f4b64e926f968a36a7773"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:17:88:01:02:a3:58:da"
+                    ]
+                ],
+                "identifiers": [
+                    [
+                        "hue",
+                        "332eb2e1-4348-476c-b41e-3fd703c91c3b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue white lamp (LWB014)",
+                "name": "Big Lamp",
+                "sw_version": "1.88.1",
+                "entry_type": null,
+                "id": "d14572dc7ebe076e3d1974620484fd9e",
+                "via_device_id": "060b2f3955640f99ecce8fc11240ba59",
+                "area_id": "living_room",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "8d9573bcac9f4b64e926f968a36a7773"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:17:88:01:02:bf:1d:c0"
+                    ]
+                ],
+                "identifiers": [
+                    [
+                        "hue",
+                        "48795ad1-8829-4953-adef-433f86cb16a7"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue white lamp (LWB014)",
+                "name": "Lamp",
+                "sw_version": "1.88.1",
+                "entry_type": null,
+                "id": "315515085353e6bc3285b2951388c1ed",
+                "via_device_id": "060b2f3955640f99ecce8fc11240ba59",
+                "area_id": "guest_bedroom",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "8d9573bcac9f4b64e926f968a36a7773"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:17:88:01:08:14:b1:77"
+                    ]
+                ],
+                "identifiers": [
+                    [
+                        "hue",
+                        "2deb81a6-baa8-4b5d-966e-e49084a7d5ee"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue filament bulb (LWO002)",
+                "name": "Rope Light",
+                "sw_version": "1.93.11",
+                "entry_type": null,
+                "id": "1ed6b1e08e0df401b58b573eec4ed0e8",
+                "via_device_id": "060b2f3955640f99ecce8fc11240ba59",
+                "area_id": "basement",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "8d9573bcac9f4b64e926f968a36a7773"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:17:88:01:09:53:34:2b"
+                    ]
+                ],
+                "identifiers": [
+                    [
+                        "hue",
+                        "6eab95fa-5be2-4f89-8ca4-619e5faaea30"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue color Lamp (LCA003)",
+                "name": "Overhead Light",
+                "sw_version": "1.93.7",
+                "entry_type": null,
+                "id": "c0b0261a3151a17e06c03b029cb0139b",
+                "via_device_id": "060b2f3955640f99ecce8fc11240ba59",
+                "area_id": "mason_s_room",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "8d9573bcac9f4b64e926f968a36a7773"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:17:88:01:09:54:7f:5e"
+                    ]
+                ],
+                "identifiers": [
+                    [
+                        "hue",
+                        "6c462502-66d4-4d2d-a35e-89d27a41e050"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue color Lamp (LCA003)",
+                "name": "Overhead Light",
+                "sw_version": "1.93.7",
+                "entry_type": null,
+                "id": "c88bff4937c233c1ddccc6b4cb59a142",
+                "via_device_id": "060b2f3955640f99ecce8fc11240ba59",
+                "area_id": "mason_s_room",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "8d9573bcac9f4b64e926f968a36a7773"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:17:88:01:09:54:7b:5b"
+                    ]
+                ],
+                "identifiers": [
+                    [
+                        "hue",
+                        "65d5865e-753a-4f0f-b263-0fde997e8cd9"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue color Lamp (LCA003)",
+                "name": "Lamp",
+                "sw_version": "1.93.11",
+                "entry_type": null,
+                "id": "e2b802a387e94c2b5c048155a02c81ab",
+                "via_device_id": "060b2f3955640f99ecce8fc11240ba59",
+                "area_id": "bedroom",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "e8b439c1f7405725dbd8852905098a0b"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "ipp",
+                        "e3248000-80ce-11db-8000-405bd8eac406"
+                    ]
+                ],
+                "manufacturer": "Brother",
+                "model": "HL-L2390DW",
+                "name": "Brother HL-L2390DW",
+                "sw_version": [
+                    "R2007171728:BC14",
+                    "2.04"
+                ],
+                "entry_type": null,
+                "id": "66b8b140417c96b992fed4cf71053353",
+                "via_device_id": null,
+                "area_id": "basement",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "ed3791ef9b417e6c3d99cf545b14f85d"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "xbox",
+                        "FD00B1B91EC171E5"
+                    ]
+                ],
+                "manufacturer": "Microsoft",
+                "model": "Xbox One S",
+                "name": "XBOXONE",
+                "sw_version": null,
+                "entry_type": null,
+                "id": "207441ebf4320b8bc03b9e48dedd0813",
+                "via_device_id": null,
+                "area_id": "basement",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "ed3791ef9b417e6c3d99cf545b14f85d"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "xbox",
+                        "xbox_live"
+                    ]
+                ],
+                "manufacturer": "Microsoft",
+                "model": "Xbox Live",
+                "name": "Xbox Live",
+                "sw_version": null,
+                "entry_type": "service",
+                "id": "a613c297a09a8894df85724fb9e9d8f4",
+                "via_device_id": null,
+                "area_id": "basement",
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "2b742ea0d3822eda82f9a020b19b3f7f"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "cast",
+                        "3627054e63ef91e3b42aa9a52abfda0e"
+                    ]
+                ],
+                "manufacturer": "None",
+                "model": "Google Nest Hub",
+                "name": "Basement Display",
+                "sw_version": null,
+                "entry_type": null,
+                "id": "82451f7b0d30c77c4290df4c9a54bc37",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "41c39c2f099e37ae2245485489fe75fa"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "mobile_app",
+                        "994f9fd5102ea1d3"
+                    ]
+                ],
+                "manufacturer": "Google",
+                "model": "Pixel 3",
+                "name": "Pixel 3",
+                "sw_version": "30",
+                "entry_type": null,
+                "id": "9f945310e8011d812611e8aa85fc1899",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "ed3791ef9b417e6c3d99cf545b14f85d"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "xbox",
+                        "F4000F87C642E843"
+                    ]
+                ],
+                "manufacturer": "Microsoft",
+                "model": "Xbox Series X",
+                "name": "Xbox Series X",
+                "sw_version": null,
+                "entry_type": null,
+                "id": "cec41216c5175b48a4ff30a18e37f425",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "2b742ea0d3822eda82f9a020b19b3f7f"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "cast",
+                        "43ddb95cf29a94757403499d5c9da3da"
+                    ]
+                ],
+                "manufacturer": "None",
+                "model": "JBL Link 20",
+                "name": "Outdoor Speaker",
+                "sw_version": null,
+                "entry_type": null,
+                "id": "e94b91be7ad658b61b943cd2e64f504a",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "2b742ea0d3822eda82f9a020b19b3f7f"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "cast",
+                        "04f32127bdba96c0aa188d4f918664b9"
+                    ]
+                ],
+                "manufacturer": "None",
+                "model": "JBL Link 20",
+                "name": "JBL Link 20-0cf229",
+                "sw_version": null,
+                "entry_type": null,
+                "id": "f93812d33694fa2a41fd2188187228d1",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            }
+        ],
+        "deleted_devices": []
+    }
+}
